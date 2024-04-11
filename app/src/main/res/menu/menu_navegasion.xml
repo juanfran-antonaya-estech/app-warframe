@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group>
+        <item android:title="Inicio" />
+        <item android:title="Alertas" />
+        <item android:title="Noticias" />
+        <item android:title="Eventos" />
+        <item android:title="Misiones del sindicato" />
+        <item android:title="Fisuras" />
+        <item android:title="Mejoras Globales" />
+        <item android:title="Ventas Flash" />
+        <item android:title="Invasiones" />
+        <item android:title="Sectores Oscuros" />
+        <item android:title="Baro Ki'Teer" />
+        <item android:title="Ofertas Diarias" />
+        <item android:title="Simaris" />
+        <item android:title="Retos del conclave" />
+        <item android:title="Ciclos" />
+        <item android:title="Arbitraciones" />
+        <item android:title="Outposts" />
+        <item android:title="Camino de acero" />
+        <item android:title="Evergreens" />
+        <item android:title="Incursiones" />
+        <item android:title="Bazar de Maroo" />
+        <item android:title="Arcontes" />
+    </group>
+</menu>
