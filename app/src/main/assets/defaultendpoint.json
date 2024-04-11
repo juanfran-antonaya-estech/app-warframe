@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-04-11T06:42:20.000Z",
+  "timestamp": "2024-04-11T07:34:23.000Z",
   "news": [
     {
       "id": "62d31b87106360aa5703954d",
@@ -8,7 +8,7 @@
       "imageLink": "https://cdn.warframestat.us/genesis/img/news-placeholder.png",
       "priority": false,
       "date": "2022-07-16T20:10:00.000Z",
-      "eta": "634d 10h 34m 0s ago",
+      "eta": "634d 11h 26m 10s ago",
       "update": false,
       "primeAccess": false,
       "stream": false,
@@ -28,16 +28,16 @@
         "ko": "Join the official Warframe Discord server",
         "tc": "Join the official Warframe Discord server"
       },
-      "asString": "[634d 10h 34m 0s ago] [Join the official Warframe Discord server](https://discord.com/invite/playwarframe)"
+      "asString": "[634d 11h 26m 10s ago] [Join the official Warframe Discord server](https://discord.com/invite/playwarframe)"
     },
     {
       "id": "65d512fca06b4d92fa080fa5",
-      "message": "Warframe on iOS Available Now",
+      "message": "Warframe en iOS disponible ya",
       "link": "https://www.warframe.com/news/warframe-on-ios?utm_medium=in-game&utm_source=in-game&utm_campaign=2024-02-iOSLaunchDay",
       "imageLink": "https://www-static.warframe.com/uploads/thumbnails/6e010834485cd78f5dc26ebbcb329de8_1600x900.png",
       "priority": false,
       "date": "2024-02-20T21:00:00.000Z",
-      "eta": "50d 9h 44m 0s ago",
+      "eta": "50d 10h 36m 10s ago",
       "update": false,
       "primeAccess": false,
       "stream": false,
@@ -57,16 +57,16 @@
         "ko": "워프레임을 지금 iOS에서 만나보세요",
         "tc": "iOS 版 Warframe 現已登場"
       },
-      "asString": "[50d 9h 44m 0s ago] [Warframe on iOS Available Now](https://www.warframe.com/news/warframe-on-ios?utm_medium=in-game&utm_source=in-game&utm_campaign=2024-02-iOSLaunchDay)"
+      "asString": "[50d 10h 36m 10s ago] [Warframe en iOS disponible ya](https://www.warframe.com/news/warframe-on-ios?utm_medium=in-game&utm_source=in-game&utm_campaign=2024-02-iOSLaunchDay)"
     },
     {
       "id": "65f340dc675c2423a0061c07",
-      "message": "Titania Prime and Gara Prime are Back!",
+      "message": "¡Titania Prime y Gara Prime están de regreso!",
       "link": "https://www.warframe.com/prime-resurgence?utm_medium=in-game&utm_source=in-game&utm_campaign=2024-03-TitaniaGaraPrimeResurgenceIGN",
       "imageLink": "https://www-static.warframe.com/images/prime-resurgence/rotations/titania-gara/masthead-keyart-desktop.png",
       "priority": false,
       "date": "2024-03-14T18:23:00.000Z",
-      "eta": "27d 12h 21m 0s ago",
+      "eta": "27d 13h 13m 10s ago",
       "update": false,
       "primeAccess": false,
       "stream": false,
@@ -86,17 +86,17 @@
         "ko": "티타니아 프라임과 가라 프라임이 돌아왔습니다!",
         "tc": "Titania Prime 以及 Gara Prime 回歸了！"
       },
-      "asString": "[27d 12h 21m 0s ago] [Titania Prime and Gara Prime are Back!](https://www.warframe.com/prime-resurgence?utm_medium=in-game&utm_source=in-game&utm_campaign=2024-03-TitaniaGaraPrimeResurgenceIGN)"
+      "asString": "[27d 13h 13m 10s ago] [¡Titania Prime y Gara Prime están de regreso!](https://www.warframe.com/prime-resurgence?utm_medium=in-game&utm_source=in-game&utm_campaign=2024-03-TitaniaGaraPrimeResurgenceIGN)"
     },
     {
       "id": "65fccf2e7989de8da70e8389",
-      "message": "Your Year in Review",
+      "message": "Tu resumen del año",
       "link": "https://www.warframe.com/news/your-year-in-review?utm_medium=in-game&utm_source=in-game&utm_campaign=2024-03-YourYearInReviewEmailBlast",
       "imageLink": "https://www-static.warframe.com/uploads/thumbnails/84312a878aeab3b3fff5d29b7e97e8c_1600x900.png",
       "priority": false,
       "date": "2024-03-21T23:21:00.000Z",
       "startDate": "2024-03-21T23:00:00.000Z",
-      "eta": "20d 7h 23m 0s ago",
+      "eta": "20d 8h 15m 10s ago",
       "update": false,
       "primeAccess": false,
       "stream": false,
@@ -116,16 +116,16 @@
         "ko": "한 해를 돌아보면서",
         "tc": "你的年度回顧"
       },
-      "asString": "[20d 7h 23m 0s ago] [Your Year in Review](https://www.warframe.com/news/your-year-in-review?utm_medium=in-game&utm_source=in-game&utm_campaign=2024-03-YourYearInReviewEmailBlast)"
+      "asString": "[20d 8h 15m 10s ago] [Tu resumen del año](https://www.warframe.com/news/your-year-in-review?utm_medium=in-game&utm_source=in-game&utm_campaign=2024-03-YourYearInReviewEmailBlast)"
     },
     {
       "id": "65fda306a420b3040308b24c",
-      "message": "11 Year Anniversary Kicks Off March 22",
+      "message": "El 11.º aniversario comienza el 22 de marzo",
       "link": "https://www.warframe.com/anniversary?utm_medium=in-game&utm_source=in-game&utm_campaign=2024-03-11YearanniversaryWebsiteLaunch",
       "imageLink": "https://www-static.warframe.com/uploads/thumbnails/e21b32dbb8813e59ddb09a3aca8347f_1600x900.png",
       "priority": false,
       "date": "2024-03-22T15:07:00.000Z",
-      "eta": "19d 15h 37m 0s ago",
+      "eta": "19d 16h 29m 10s ago",
       "update": false,
       "primeAccess": false,
       "stream": false,
@@ -144,35 +144,17 @@
         "ko": "11주년 기념 행사가 북미 시각 3월 22일 시작됩니다",
         "tc": "11 週年紀念活動將於 3 月 22 日拉開序幕"
       },
-      "asString": "[19d 15h 37m 0s ago] [11 Year Anniversary Kicks Off March 22](https://www.warframe.com/anniversary?utm_medium=in-game&utm_source=in-game&utm_campaign=2024-03-11YearanniversaryWebsiteLaunch)"
-    },
-    {
-      "id": "65fda51cd90254ff0d06f718",
-      "message": "Twitch Drops: Warframe 11 Year Anniversary!",
-      "link": "https://forums.warframe.com/topic/1387661-11-year-anniversary-twitch-drops-campaign-starts-march-25/",
-      "imageLink": "https://cdn.warframestat.us/genesis/img/news-placeholder.png",
-      "priority": false,
-      "date": "2024-03-22T15:40:00.000Z",
-      "startDate": "2024-03-25T15:00:00.000Z",
-      "endDate": "2024-04-15T15:00:00.000Z",
-      "eta": "in 4d 8h 15m 59s",
-      "update": false,
-      "primeAccess": false,
-      "stream": false,
-      "translations": {
-        "en": "Twitch Drops: Warframe 11 Year Anniversary!"
-      },
-      "asString": "[in 4d 8h 15m 59s] [Twitch Drops: Warframe 11 Year Anniversary!](https://forums.warframe.com/topic/1387661-11-year-anniversary-twitch-drops-campaign-starts-march-25/)"
+      "asString": "[19d 16h 29m 10s ago] [El 11.º aniversario comienza el 22 de marzo](https://www.warframe.com/anniversary?utm_medium=in-game&utm_source=in-game&utm_campaign=2024-03-11YearanniversaryWebsiteLaunch)"
     },
     {
       "id": "65fdacfc24c51cca2b0deb41",
-      "message": "11 Year Anniversary Pre-Orders Begin Now",
+      "message": "¡Las reservas del 11.º aniversario comienzan ahora!",
       "link": "https://www.warframe.com/news/11-year-anniversary-merch-collection?utm_medium=in-game&utm_source=in-game&utm_campaign=2024-Merch-11YearAnniversaryLaunch",
       "imageLink": "https://www-static.warframe.com/uploads/thumbnails/08ad3149ed1b0c74abcad826a15cfbb8_1600x900.png",
       "priority": false,
       "date": "2024-03-22T15:58:00.000Z",
       "startDate": "2024-03-22T16:00:00.000Z",
-      "eta": "19d 14h 46m 0s ago",
+      "eta": "19d 15h 38m 10s ago",
       "update": false,
       "primeAccess": false,
       "stream": false,
@@ -190,16 +172,33 @@
         "ko": "11주년 기념품 예약 주문이 지금 시작됩니다",
         "tc": "11 週年紀念周邊商品組合包"
       },
-      "asString": "[19d 14h 46m 0s ago] [11 Year Anniversary Pre-Orders Begin Now](https://www.warframe.com/news/11-year-anniversary-merch-collection?utm_medium=in-game&utm_source=in-game&utm_campaign=2024-Merch-11YearAnniversaryLaunch)"
+      "asString": "[19d 15h 38m 10s ago] [¡Las reservas del 11.º aniversario comienzan ahora!](https://www.warframe.com/news/11-year-anniversary-merch-collection?utm_medium=in-game&utm_source=in-game&utm_campaign=2024-Merch-11YearAnniversaryLaunch)"
+    },
+    {
+      "id": "6601ac4c4bcccc24e403b9da",
+      "message": "Campaña de Twitch Drops - Aniversario de Warframe",
+      "link": "https://forums.warframe.com/topic/1388446-campa%C3%B1a-de-twitch-drops-para-aniversario-11-comienza-el-25-de-marzo/",
+      "imageLink": "https://cdn.warframestat.us/genesis/img/news-placeholder.png",
+      "priority": false,
+      "date": "2024-03-25T16:50:00.000Z",
+      "endDate": "2024-04-15T14:59:00.000Z",
+      "eta": "in 4d 7h 22m 49s",
+      "update": false,
+      "primeAccess": false,
+      "stream": false,
+      "translations": {
+        "es": "Campaña de Twitch Drops - Aniversario de Warframe"
+      },
+      "asString": "[in 4d 7h 22m 49s] [Campaña de Twitch Drops - Aniversario de Warframe](https://forums.warframe.com/topic/1388446-campa%C3%B1a-de-twitch-drops-para-aniversario-11-comienza-el-25-de-marzo/)"
     },
     {
       "id": "66043b21af7d84281c0bff97",
-      "message": "Dante Unbound Available Now",
+      "message": "«Dante Liberado» disponible ya",
       "link": "https://www.warframe.com/news/dante-unbound-launches-in-march?utm_medium=in-game&utm_source=in-game&utm_campaign=2024-03-DanteUnboundLaunch",
       "imageLink": "https://www-static.warframe.com/uploads/eee035bec511a2e4204546c8636cf320.png",
       "priority": false,
       "date": "2024-03-27T15:20:00.000Z",
-      "eta": "14d 15h 24m 0s ago",
+      "eta": "14d 16h 16m 10s ago",
       "update": false,
       "primeAccess": false,
       "stream": false,
@@ -210,7 +209,7 @@
         "de": "'Dante entfesselt' ist jetzt verfügbar",
         "es": "«Dante Liberado» disponible ya",
         "pt": "A atualização ''Libertação de Dante'' já está disponível",
-        "ru": "Обновление «Данте на свободе» уже доступно",
+        "ru": "Обновление «Данте на свободе» уже доступно",
         "pl": "Wyzwolenie Dantego jest już dostępne",
         "uk": "«Данте вільний» уже доступний",
         "tr": "Dante Unbound Şimdi Sizlerle",
@@ -219,16 +218,16 @@
         "ko": "해방된 단테를 지금 만나보세요",
         "tc": "《DANTE・解放》現已登場"
       },
-      "asString": "[14d 15h 24m 0s ago] [Dante Unbound Available Now](https://www.warframe.com/news/dante-unbound-launches-in-march?utm_medium=in-game&utm_source=in-game&utm_campaign=2024-03-DanteUnboundLaunch)"
+      "asString": "[14d 16h 16m 10s ago] [«Dante Liberado» disponible ya](https://www.warframe.com/news/dante-unbound-launches-in-march?utm_medium=in-game&utm_source=in-game&utm_campaign=2024-03-DanteUnboundLaunch)"
     },
     {
       "id": "660457fb7f35b36e040a7502",
-      "message": "Dante Chronicles Pack Available Now",
+      "message": "Ya está disponible el Paquete Crónicas de Dante",
       "link": "https://www.warframe.com/news/dante-chronicles-pack?utm_medium=in-game&utm_source=in-game&utm_campaign=2024-03-DanteUnboundSupporterSKULaunch",
       "imageLink": "https://www-static.warframe.com/uploads/thumbnails/454a0d8a48220cab003e6e7fd2909490_1600x900.png",
       "priority": false,
       "date": "2024-03-27T17:30:00.000Z",
-      "eta": "14d 13h 14m 0s ago",
+      "eta": "14d 14h 6m 10s ago",
       "update": false,
       "primeAccess": false,
       "stream": false,
@@ -248,16 +247,16 @@
         "ko": "단테의 연대기 팩을 지금 만나보세요",
         "tc": "Dante 史記組合包現已登場"
       },
-      "asString": "[14d 13h 14m 0s ago] [Dante Chronicles Pack Available Now](https://www.warframe.com/news/dante-chronicles-pack?utm_medium=in-game&utm_source=in-game&utm_campaign=2024-03-DanteUnboundSupporterSKULaunch)"
+      "asString": "[14d 14h 6m 10s ago] [Ya está disponible el Paquete Crónicas de Dante](https://www.warframe.com/news/dante-chronicles-pack?utm_medium=in-game&utm_source=in-game&utm_campaign=2024-03-DanteUnboundSupporterSKULaunch)"
     },
     {
       "id": "6604737626861abb100fe5aa",
-      "message": "Tennogen Unbound",
+      "message": "TennoGen Liberado",
       "link": "https://www.warframe.com/news/tennogen-unbound?utm_medium=in-game&utm_source=in-game&utm_campaign=2023-03-TennoGen",
       "imageLink": "https://www-static.warframe.com/uploads/thumbnails/7a3e896d4efb5a9d66c98bff869f8d1f_1600x900.png",
       "priority": false,
       "date": "2024-03-27T18:13:00.000Z",
-      "eta": "14d 12h 31m 0s ago",
+      "eta": "14d 13h 23m 10s ago",
       "update": false,
       "primeAccess": false,
       "stream": false,
@@ -277,16 +276,32 @@
         "ko": "텐노젠 언바운드",
         "tc": "TennoGen 解放"
       },
-      "asString": "[14d 12h 31m 0s ago] [Tennogen Unbound](https://www.warframe.com/news/tennogen-unbound?utm_medium=in-game&utm_source=in-game&utm_campaign=2023-03-TennoGen)"
+      "asString": "[14d 13h 23m 10s ago] [TennoGen Liberado](https://www.warframe.com/news/tennogen-unbound?utm_medium=in-game&utm_source=in-game&utm_campaign=2023-03-TennoGen)"
+    },
+    {
+      "id": "66048885355ac23b8103f986",
+      "message": "Actualización 35.5: Dante Liberado",
+      "link": "https://forums.warframe.com/topic/1388986-actualizaci%C3%B3n-355-dante-liberado/",
+      "imageLink": "https://cdn.warframestat.us/genesis/img/news-placeholder.png",
+      "priority": false,
+      "date": "2024-03-27T20:56:00.000Z",
+      "eta": "14d 10h 40m 10s ago",
+      "update": false,
+      "primeAccess": false,
+      "stream": false,
+      "translations": {
+        "es": "Actualización 35.5: Dante Liberado"
+      },
+      "asString": "[14d 10h 40m 10s ago] [Actualización 35.5: Dante Liberado](https://forums.warframe.com/topic/1388986-actualizaci%C3%B3n-355-dante-liberado/)"
     },
     {
       "id": "66058aba86be2c1a7906873c",
-      "message": "TennoCon 2024 Digital Pack Live!",
+      "message": "Paquete Digital de TennoCon 2024",
       "link": "https://www.warframe.com/tennocon#ticketsorpacks?utm_medium=in-game&utm_source=in-game&utm_campaign=2023-03-TennoConDigitalPackLiveIGN",
       "imageLink": "https://www-static.warframe.com/uploads/thumbnails/3617190333f59f4efc2ec651ab2e4d0_1600x900.png",
       "priority": false,
       "date": "2024-03-28T15:17:00.000Z",
-      "eta": "13d 15h 27m 0s ago",
+      "eta": "13d 16h 19m 10s ago",
       "update": false,
       "primeAccess": false,
       "stream": false,
@@ -306,16 +321,16 @@
         "ko": "텐노콘 2024 디지털 팩",
         "tc": "TennoCon 2024 數位包"
       },
-      "asString": "[13d 15h 27m 0s ago] [TennoCon 2024 Digital Pack Live!](https://www.warframe.com/tennocon#ticketsorpacks?utm_medium=in-game&utm_source=in-game&utm_campaign=2023-03-TennoConDigitalPackLiveIGN)"
+      "asString": "[13d 16h 19m 10s ago] [Paquete Digital de TennoCon 2024](https://www.warframe.com/tennocon#ticketsorpacks?utm_medium=in-game&utm_source=in-game&utm_campaign=2023-03-TennoConDigitalPackLiveIGN)"
     },
     {
       "id": "660da1075e10c51bb8084bab",
-      "message": "Leap of the Lotus 2024",
+      "message": "Salto de Lotus 2024",
       "link": "https://www.warframe.com/news/leap-of-the-lotus-2024?utm_medium=in-game&utm_source=in-game&utm_campaign=2024-04-LeapofLotusEventLaunch",
       "imageLink": "https://www-static.warframe.com/uploads/thumbnails/17303cc9014539b65b6700324789d43_1600x900.png",
       "priority": false,
       "date": "2024-04-03T18:10:00.000Z",
-      "eta": "7d 12h 34m 0s ago",
+      "eta": "7d 13h 26m 10s ago",
       "update": false,
       "primeAccess": false,
       "stream": false,
@@ -335,16 +350,16 @@
         "ko": "로터스의 토끼뜀 2024",
         "tc": "Lotus 春意之躍 2024"
       },
-      "asString": "[7d 12h 34m 0s ago] [Leap of the Lotus 2024](https://www.warframe.com/news/leap-of-the-lotus-2024?utm_medium=in-game&utm_source=in-game&utm_campaign=2024-04-LeapofLotusEventLaunch)"
+      "asString": "[7d 13h 26m 10s ago] [Salto de Lotus 2024](https://www.warframe.com/news/leap-of-the-lotus-2024?utm_medium=in-game&utm_source=in-game&utm_campaign=2024-04-LeapofLotusEventLaunch)"
     },
     {
       "id": "660daef6e12a72d25c0d61d3",
-      "message": "Lotus’ Spring Basket Blitz Contest",
+      "message": "Concurso de Canastas de Pascua de Lotus",
       "link": "https://www.warframe.com/news/lotus-spring-basket-blitz-contest?utm_medium=in-game&utm_source=in-game&utm_campaign=2024-04-LeapofLotusEventContest",
       "imageLink": "https://www-static.warframe.com/uploads/thumbnails/5030f198b9220940d2dbb8b3c5a4ccf6_1600x900.png",
       "priority": false,
       "date": "2024-04-03T19:30:00.000Z",
-      "eta": "7d 11h 14m 0s ago",
+      "eta": "7d 12h 6m 10s ago",
       "update": false,
       "primeAccess": false,
       "stream": false,
@@ -355,7 +370,7 @@
         "de": "Lotus' Frühlingskorb Blitz-Wettbewerb",
         "es": "Concurso de Canastas de Pascua de Lotus",
         "pt": "Concurso de Cestas de Páscoa da Lótus",
-        "ru": "Блиц-конкурс «Весенняя корзина Лотос — 2024»",
+        "ru": "Блиц-конкурс «Весенняя корзина Лотос — 2024»",
         "pl": "Konkurs Lotus na Kosz Wielkanocny",
         "uk": "Бліцконкурс «Весняний кошик Лотос»",
         "tr": "Lotus'un Bahar Sepeti Yarışması",
@@ -364,48 +379,46 @@
         "ko": "로터스의 봄맞이 부활절 바구니 만들기 콘테스트",
         "tc": "Lotus 春意滿籃閃擊比賽"
       },
-      "asString": "[7d 11h 14m 0s ago] [Lotus’ Spring Basket Blitz Contest](https://www.warframe.com/news/lotus-spring-basket-blitz-contest?utm_medium=in-game&utm_source=in-game&utm_campaign=2024-04-LeapofLotusEventContest)"
+      "asString": "[7d 12h 6m 10s ago] [Concurso de Canastas de Pascua de Lotus](https://www.warframe.com/news/lotus-spring-basket-blitz-contest?utm_medium=in-game&utm_source=in-game&utm_campaign=2024-04-LeapofLotusEventContest)"
     },
     {
-      "id": "66168d8f7c4a81851b0f8a5b",
-      "message": "Coming Soon: Prime Time #388!",
-      "link": "https://forums.warframe.com/topic/1393185-community-stream-schedule-april-8-14-2024/?utm_medium=in-game&utm_source=in-game&utm_campaign=2024-04-CommunityStreams-08",
+      "id": "6610760aeee2c8c8b4109ca0",
+      "message": "Dante Liberado: Revisión 35.5.3",
+      "link": "https://forums.warframe.com/topic/1392265-dante-liberado-revisi%C3%B3n-3553/",
       "imageLink": "https://cdn.warframestat.us/genesis/img/news-placeholder.png",
       "priority": false,
-      "date": "2024-04-10T12:59:00.000Z",
-      "startDate": "2024-04-11T22:00:00.000Z",
-      "endDate": "2024-04-12T00:00:00.000Z",
-      "eta": "in 17h 15m 59s",
+      "date": "2024-04-05T22:06:00.000Z",
+      "eta": "5d 9h 30m 10s ago",
       "update": false,
       "primeAccess": false,
       "stream": false,
       "translations": {
-        "en": "Coming Soon: Prime Time #388!"
+        "es": "Dante Liberado: Revisión 35.5.3"
       },
-      "asString": "[in 17h 15m 59s] [Coming Soon: Prime Time #388!](https://forums.warframe.com/topic/1393185-community-stream-schedule-april-8-14-2024/?utm_medium=in-game&utm_source=in-game&utm_campaign=2024-04-CommunityStreams-08)"
+      "asString": "[5d 9h 30m 10s ago] [Dante Liberado: Revisión 35.5.3](https://forums.warframe.com/topic/1392265-dante-liberado-revisi%C3%B3n-3553/)"
     },
     {
-      "id": "6616e31cd67a2b51bb0c7416",
-      "message": "Dante Unbound: Hotfix 35.5.6",
-      "link": "https://www.warframe.com/updates/pc/35-5-6",
+      "id": "66141ad6744a7884120e3b5b",
+      "message": " Dante Liberado: Revisión 35.5.4",
+      "link": "https://forums.warframe.com/topic/1392849-dante-liberado-revisi%C3%B3n-3554/",
       "imageLink": "https://cdn.warframestat.us/genesis/img/news-placeholder.png",
-      "priority": true,
-      "date": "2024-04-10T17:51:00.000Z",
-      "eta": "12h 53m 0s ago",
-      "update": true,
+      "priority": false,
+      "date": "2024-04-08T15:26:00.000Z",
+      "eta": "2d 16h 10m 10s ago",
+      "update": false,
       "primeAccess": false,
       "stream": false,
       "translations": {
-        "en": "Dante Unbound: Hotfix 35.5.6"
+        "es": " Dante Liberado: Revisión 35.5.4"
       },
-      "asString": "[12h 53m 0s ago] [Dante Unbound: Hotfix 35.5.6](https://www.warframe.com/updates/pc/35-5-6)"
+      "asString": "[2d 16h 10m 10s ago] [ Dante Liberado: Revisión 35.5.4](https://forums.warframe.com/topic/1392849-dante-liberado-revisi%C3%B3n-3554/)"
     }
   ],
   "events": [
     {
       "id": "5c7cb0d00000000000000000",
       "activation": "2024-04-08T16:00:00.000Z",
-      "startString": "-2d 14h 44m 0s",
+      "startString": "-2d 15h 36m 10s",
       "expiry": "2024-04-22T16:00:00.000Z",
       "active": true,
       "maximumScore": 100,
@@ -414,7 +427,7 @@
       "largeInterval": null,
       "description": "Thermia Fractures",
       "tooltip": "Seal fractures across the Orb Vallis",
-      "node": "Orb Vallis (Venus)",
+      "node": "Valles del Orbe (Venus)",
       "concurrentNodes": [],
       "scoreLocTag": "Heat Fissures Event Score",
       "rewards": [
@@ -510,7 +523,7 @@
       "isCommunity": true,
       "regionDrops": [],
       "archwingDrops": [],
-      "asString": "Thermia Fractures\nHeat Fissures Event Score : 100\nRewards:\nOpticor Vandal\n\nBattle on Orb Vallis (Venus)\n12% Remaining",
+      "asString": "Thermia Fractures\nHeat Fissures Event Score : 100\nRewards:\nOpticor Vandal\n\nBattle on Valles del Orbe (Venus)\n12% Remaining",
       "metadata": {},
       "completionBonuses": [],
       "scoreVar": "FissuresClosed",
@@ -524,7 +537,7 @@
     {
       "id": "660f068b9850fe61587c94e0",
       "activation": "2024-04-05T15:00:00.000Z",
-      "startString": "-5d 15h 44m 0s",
+      "startString": "-5d 16h 36m 10s",
       "expiry": "2024-04-12T15:00:00.000Z",
       "active": true,
       "maximumScore": 1,
@@ -566,7 +579,7 @@
     {
       "id": "660f06939850fe61587c94e2",
       "activation": "2024-04-05T15:00:00.000Z",
-      "startString": "-5d 15h 44m 0s",
+      "startString": "-5d 16h 36m 10s",
       "expiry": "2024-04-12T15:00:00.000Z",
       "active": true,
       "maximumScore": 1,
@@ -574,7 +587,7 @@
       "smallInterval": null,
       "largeInterval": null,
       "description": "Gifts of the Lotus - Stolen!",
-      "node": "Earth",
+      "node": "La Tierra",
       "concurrentNodes": [],
       "rewards": [
         {
@@ -595,7 +608,7 @@
       "isPersonal": true,
       "regionDrops": [],
       "archwingDrops": [],
-      "asString": "Gifts of the Lotus - Stolen!\nRewards:\nExcalibur Dex Bobble Head\nBattle on Earth",
+      "asString": "Gifts of the Lotus - Stolen!\nRewards:\nExcalibur Dex Bobble Head\nBattle on La Tierra",
       "metadata": {},
       "completionBonuses": [],
       "altExpiry": "1970-01-01T00:00:00.000Z",
@@ -608,7 +621,7 @@
     {
       "id": "660f069c9850fe61587c94e4",
       "activation": "2024-04-05T15:00:00.000Z",
-      "startString": "-5d 15h 44m 0s",
+      "startString": "-5d 16h 36m 10s",
       "expiry": "2024-04-12T15:00:00.000Z",
       "active": true,
       "maximumScore": 1,
@@ -616,7 +629,7 @@
       "smallInterval": null,
       "largeInterval": null,
       "description": "Anniversary2024 Challenge Mode",
-      "node": "Mars",
+      "node": "Marte",
       "concurrentNodes": [],
       "rewards": [
         {
@@ -637,7 +650,7 @@
       "isPersonal": true,
       "regionDrops": [],
       "archwingDrops": [],
-      "asString": "Anniversary2024 Challenge Mode\nRewards:\nWeapon Utility Unlocker\nBattle on Mars",
+      "asString": "Anniversary2024 Challenge Mode\nRewards:\nWeapon Utility Unlocker\nBattle on Marte",
       "metadata": {},
       "completionBonuses": [],
       "altExpiry": "1970-01-01T00:00:00.000Z",
@@ -652,14 +665,14 @@
     {
       "id": "660dbfcfd33f1ab8230df48c",
       "activation": "2024-04-08T15:00:00.000Z",
-      "startString": "-2d 15h 44m 0s",
+      "startString": "-2d 16h 36m 10s",
       "expiry": "2024-04-15T15:00:00.000Z",
       "active": true,
       "mission": {
         "description": "Solar Eclipse Mode",
-        "node": "E Prime (Earth)",
+        "node": "E Prime (Tierra)",
         "nodeKey": "E Prime (Earth)",
-        "type": "Defense",
+        "type": "Defensa",
         "typeKey": "Defense",
         "faction": "Grineer",
         "factionKey": "Grineer",
@@ -687,7 +700,7 @@
         "requiredItems": [],
         "levelAuras": []
       },
-      "eta": "4d 8h 15m 59s",
+      "eta": "4d 7h 23m 49s",
       "rewardTypes": [
         "other",
         "other"
@@ -697,13 +710,13 @@
     {
       "id": "65f332a3808c89a14d07e48b",
       "activation": "2024-04-10T18:00:00.000Z",
-      "startString": "-12h 44m 0s",
+      "startString": "-13h 36m 10s",
       "expiry": "2024-04-15T18:00:00.000Z",
       "active": true,
       "mission": {
-        "node": "Everest (Earth)",
+        "node": "Everest (Tierra)",
         "nodeKey": "Everest (Earth)",
-        "type": "Excavation",
+        "type": "Excavación",
         "typeKey": "Excavation",
         "faction": "Grineer",
         "factionKey": "Grineer",
@@ -730,7 +743,7 @@
         "requiredItems": [],
         "levelAuras": []
       },
-      "eta": "4d 11h 15m 59s",
+      "eta": "4d 10h 23m 49s",
       "rewardTypes": [
         "reactor"
       ]
@@ -739,33 +752,33 @@
   "sortie": {
     "id": "6616b3fe47078bb5703284c7",
     "activation": "2024-04-10T16:00:00.000Z",
-    "startString": "-14h 44m 0s",
+    "startString": "-15h 36m 10s",
     "expiry": "2024-04-11T16:00:00.000Z",
     "active": true,
     "rewardPool": "Sortie Rewards",
     "variants": [
       {
-        "missionType": "Rescue",
+        "missionType": "Rescate",
         "missionTypeKey": "Rescue",
-        "modifier": "Weapon Restriction: Sniper Only",
+        "modifier": "Restricción de arma: solo francotirador",
         "modifierDescription": "Only snipers may be used in this mission, any other weapon type is not allowed, and will be removed automatically if equipped.",
-        "node": "Umbriel (Uranus)",
+        "node": "Umbriel (Urano)",
         "nodeKey": "Umbriel (Uranus)"
       },
       {
-        "missionType": "Mobile Defense",
+        "missionType": "Defensa móvil",
         "missionTypeKey": "Mobile Defense",
-        "modifier": "Eximus Stronghold",
-        "modifierDescription": "Eximus units have a much higher spawn rate in this mission. Some of their auras stack.",
+        "modifier": "Fortaleza éximus",
+        "modifierDescription": "Las unidades eximus tienen una mayor probabilidad de aparición en esta misión. Algunas de sus auras se apilan.",
         "node": "Marid (Sedna)",
         "nodeKey": "Marid (Sedna)"
       },
       {
-        "missionType": "Assassination",
+        "missionType": "Asesinato",
         "missionTypeKey": "Assassination",
-        "modifier": "Enemy Elemental Enhancement: Viral",
-        "modifierDescription": "Enemies deal increased Viral damage and also have increased Immunity to said damage type.",
-        "node": "Tethys (Saturn)",
+        "modifier": "Mejora elemental enemiga: viral",
+        "modifierDescription": "Los enemigos dan un daño mayor de viral y tienen inmunidad aumentada a dicho tipo de daño.",
+        "node": "Tetis (Saturno)",
         "nodeKey": "Tethys (Saturn)"
       }
     ],
@@ -774,33 +787,33 @@
     "faction": "Grineer",
     "factionKey": "Grineer",
     "expired": false,
-    "eta": "9h 15m 59s"
+    "eta": "8h 23m 49s"
   },
   "syndicateMissions": [
     {
-      "id": "1712820534202CetusSyndicate",
-      "activation": "2024-04-11T04:58:55.328Z",
-      "startString": "-1h 45m 5s",
-      "expiry": "2024-04-11T07:28:54.202Z",
+      "id": "1712829533076CetusSyndicate",
+      "activation": "2024-04-11T07:28:54.203Z",
+      "startString": "-7m 15s",
+      "expiry": "2024-04-11T09:58:53.076Z",
       "active": true,
-      "syndicate": "Ostrons",
+      "syndicate": "Ostronitas",
       "syndicateKey": "Ostrons",
       "nodes": [],
       "jobs": [
         {
-          "id": "AssassinateBountyCap1712820534202",
+          "id": "ReclamationBountyCap1712829533076",
           "rewardPool": [
-            "Redirection",
-            "100X Oxium",
+            "Vitality",
+            "200X Plastids",
             "1,500 Credits Cache",
             "50 Endo",
-            "15X Iradite",
+            "15X Nistlepod",
             "Gara Chassis Blueprint",
             "Point Blank",
-            "Streamline",
-            "2X Morphics"
+            "Intensify",
+            "2X Gallium"
           ],
-          "type": "Capture the New Grineer Commander",
+          "type": "Capture the Grineer Agent",
           "enemyLevels": [
             5,
             15
@@ -811,83 +824,103 @@
             400
           ],
           "minMR": 0,
-          "expiry": "2024-04-11T07:28:54.202Z"
+          "expiry": "2024-04-11T09:58:53.076Z"
         },
         {
-          "id": "AttritionBountyCap1712820534202",
+          "id": "SabotageBountySab1712829533076",
           "rewardPool": [
-            "Steel Fiber",
-            "200X Oxium",
+            "Point Strike",
+            "300X Circuits",
             "2,500 Credits Cache",
             "100 Endo",
             "Gara Systems Blueprint",
-            "Charged Chamber",
-            "Burning Wasp",
+            "Enhanced Durability",
+            "Grim Fury",
             "Aya",
-            "2X Control Module"
+            "2X Orokin Cell"
           ],
-          "type": "Capture Their Leader",
+          "type": "Sabotage Bounty",
           "enemyLevels": [
             10,
             30
           ],
           "standingStages": [
-            730,
-            730,
-            730
+            750,
+            750,
+            750
           ],
           "minMR": 1,
-          "expiry": "2024-04-11T07:28:54.202Z"
+          "expiry": "2024-04-11T09:58:53.076Z"
         },
         {
-          "id": "SabotageBountySab1712820534202",
-          "rewardPool": [],
-          "type": "Sabotage Bounty",
+          "id": "RescueBountyResc1712829533076",
+          "rewardPool": [
+            "Augur Pact",
+            "Naramon Lens",
+            "Zenurik Lens",
+            "200 Endo",
+            "Gara Neuroptics Blueprint",
+            "Vigilante Fervor",
+            "Revenant Systems Blueprint",
+            "Aya",
+            "Gladiator Vice"
+          ],
+          "type": "Search and Rescue",
           "enemyLevels": [
             20,
             40
           ],
           "standingStages": [
-            610,
-            610,
-            610,
-            900
+            590,
+            590,
+            590,
+            870
           ],
           "minMR": 2,
-          "expiry": "2024-04-11T07:28:54.202Z"
+          "expiry": "2024-04-11T09:58:53.076Z"
         },
         {
-          "id": "AttritionBountyExt1712820534202",
-          "rewardPool": [],
-          "type": "Cull the Enemy",
+          "id": "ReclamationBountyTheft1712829533076",
+          "rewardPool": [
+            "Augur Message",
+            "100X Kuva",
+            "Naramon Lens",
+            "300 Endo",
+            "Cetus Wisp",
+            "Vigilante Pursuit",
+            "Revenant Chassis Blueprint",
+            "Aya",
+            "Gladiator Finesse"
+          ],
+          "type": "Reclaim the Stolen Artifact",
           "enemyLevels": [
             30,
             50
           ],
           "standingStages": [
-            620,
-            620,
-            620,
-            620,
-            1220
+            590,
+            590,
+            590,
+            590,
+            1150
           ],
           "minMR": 3,
-          "expiry": "2024-04-11T07:28:54.202Z"
+          "expiry": "2024-04-11T09:58:53.076Z"
         },
         {
-          "id": "CaptureBountyCapOne1712820534202",
+          "id": "AssassinateBountyCap1712829533076",
           "rewardPool": [
             "5X Breath Of The Eidolon",
             "400 Endo",
             "2X Cetus Wisp",
             "300X Kuva",
             "Aya",
-            "Furax Wraith Left Gauntlet",
-            "Carving Mantis",
+            "Furax Wraith Blueprint",
+            "Twirling Spire",
             "Eidolon Lens Blueprint",
             "Revenant Neuroptics Blueprint"
           ],
-          "type": "Capture the Grineer Commander",
+          "type": "Capture the New Grineer Commander",
           "enemyLevels": [
             40,
             60
@@ -897,25 +930,25 @@
             710,
             710,
             710,
-            1390
+            1400
           ],
           "minMR": 5,
-          "expiry": "2024-04-11T07:28:54.202Z"
+          "expiry": "2024-04-11T09:58:53.076Z"
         },
         {
-          "id": "AssassinateBountyAss1712820534202",
+          "id": "CaptureBountyCapOne1712829533076",
           "rewardPool": [
             "5X Breath Of The Eidolon",
             "400 Endo",
             "2X Cetus Wisp",
             "300X Kuva",
             "Aya",
-            "Furax Wraith Left Gauntlet",
-            "Carving Mantis",
+            "Furax Wraith Blueprint",
+            "Twirling Spire",
             "Eidolon Lens Blueprint",
             "Revenant Neuroptics Blueprint"
           ],
-          "type": "Assassinate the Commander",
+          "type": "Capture the Grineer Commander",
           "enemyLevels": [
             100,
             100
@@ -928,76 +961,76 @@
             1660
           ],
           "minMR": 10,
-          "expiry": "2024-04-11T07:28:54.202Z"
+          "expiry": "2024-04-11T09:58:53.076Z"
         },
         {
-          "id": "AttritionBountyExt1712820534202",
+          "id": "AttritionBountyLib1712829533076",
           "rewardPool": [
-            "Amar's Anguish",
+            "Nira's Anguish",
             "Narmer Isoplast",
             "600 Endo",
-            "Caliban Systems Blueprint",
-            "Boreal's Hatred",
+            "Caliban Neuroptics Blueprint",
+            "Amar's Hatred",
             "2X Narmer Isoplast",
             "900 Endo",
-            "Nira's Contempt",
-            "Verdilac Blueprint",
+            "Boreal's Contempt",
+            "Korumm Blueprint",
             "3X Narmer Isoplast",
             "1200 Endo"
           ],
-          "type": "For the Unum (Narmer)",
+          "type": "Bring Them Home (Narmer)",
           "enemyLevels": [
             50,
             70
           ],
           "standingStages": [
-            840,
-            840,
-            840,
-            840,
-            1640
+            810,
+            810,
+            810,
+            810,
+            1600
           ],
           "minMR": 0,
-          "expiry": "2024-04-11T06:38:54.202Z",
+          "expiry": "2024-04-11T09:08:53.076Z",
           "timeBound": "day"
         }
       ],
-      "eta": "44m 53s"
+      "eta": "2h 22m 42s"
     },
     {
-      "id": "1712820534202EntratiLabSyndicate",
-      "activation": "2024-04-11T04:58:55.328Z",
-      "startString": "-1h 45m 5s",
-      "expiry": "2024-04-11T07:28:54.202Z",
+      "id": "1712829533076EntratiLabSyndicate",
+      "activation": "2024-04-11T07:28:54.203Z",
+      "startString": "-7m 15s",
+      "expiry": "2024-04-11T09:58:53.076Z",
       "active": true,
       "syndicate": "EntratiLabSyndicate",
       "syndicateKey": "EntratiLabSyndicate",
       "nodes": [],
       "jobs": [],
-      "eta": "44m 53s"
+      "eta": "2h 22m 42s"
     },
     {
-      "id": "1712820534202EntratiSyndicate",
-      "activation": "2024-04-11T04:58:55.328Z",
-      "startString": "-1h 45m 5s",
-      "expiry": "2024-04-11T07:28:54.202Z",
+      "id": "1712829533076EntratiSyndicate",
+      "activation": "2024-04-11T07:28:54.203Z",
+      "startString": "-7m 15s",
+      "expiry": "2024-04-11T09:58:53.076Z",
       "active": true,
       "syndicate": "Entrati",
       "syndicateKey": "Entrati",
       "nodes": [],
       "jobs": [
         {
-          "id": "DeimosAssassinateBounty1712820534202",
+          "id": "DeimosPurifyBounty1712829533076",
           "rewardPool": [
             "3X 1,500 Credits Cache",
             "150 Endo",
-            "15X Ganglion",
+            "15X Lucent Teroglobe",
             "2X 3,000 Credits Cache",
             "250 Endo",
             "Aya",
             "Scintillant"
           ],
-          "type": "Cleanse the Land",
+          "type": "Anomaly Retrieval",
           "enemyLevels": [
             5,
             15
@@ -1008,37 +1041,37 @@
             5
           ],
           "minMR": 0,
-          "expiry": "2024-04-11T07:28:54.202Z"
+          "expiry": "2024-04-11T09:58:53.076Z"
         },
         {
-          "id": "DeimosPurifyBounty1712820534202",
+          "id": "DeimosGrnSurvivorBounty1712829533076",
           "rewardPool": [
             "600 Endo",
+            "Naramon Lens",
             "Zenurik Lens",
-            "Madurai Lens",
-            "Catalyzer Link",
+            "Body Count",
             "Scintillant",
             "Aya",
             "Xaku Neuroptics Blueprint",
-            "Weeping Wounds",
-            "Embedded Catalyzer",
-            "Nano-Applicator"
+            "Spring-Loaded Chamber",
+            "Repeater Clip",
+            "Pressurized Magazine"
           ],
-          "type": "Anomaly Retrieval",
+          "type": "Brute Force",
           "enemyLevels": [
             15,
             25
           ],
           "standingStages": [
-            9,
-            9,
-            9
+            11,
+            11,
+            11
           ],
           "minMR": 1,
-          "expiry": "2024-04-11T07:28:54.202Z"
+          "expiry": "2024-04-11T09:58:53.076Z"
         },
         {
-          "id": "DeimosEndlessPurifyBounty1712820534202",
+          "id": "DeimosEndlessPurifyBounty1712829533076",
           "rewardPool": [
             "Ayatan Amber Star",
             "250 Endo",
@@ -1066,63 +1099,38 @@
             14
           ],
           "minMR": 5,
-          "expiry": "2024-04-11T07:28:54.202Z"
+          "expiry": "2024-04-11T09:58:53.076Z"
         },
         {
-          "id": "DeimosKeyPiecesBounty1712820534202",
+          "id": "DeimosKeyPiecesBounty1712829533076",
           "rewardPool": [
             "750 Endo",
             "Unairu Lens",
             "Madurai Lens",
-            "Hydraulic Crosshairs",
-            "5X Fass Residue",
+            "Focused Defense",
+            "5X Vome Residue",
             "Aya",
             "Xaku Systems Blueprint",
-            "Laser Sight",
-            "Blood Rush",
-            "Argon Scope"
+            "Targeting Subsystem",
+            "Guided Ordnance",
+            "Narrow Barrel"
           ],
-          "type": "Salvage",
+          "type": "Restos",
           "enemyLevels": [
             30,
             40
           ],
           "standingStages": [
-            20,
-            20,
-            20,
-            29
+            18,
+            18,
+            18,
+            26
           ],
           "minMR": 2,
-          "expiry": "2024-04-11T07:28:54.202Z"
+          "expiry": "2024-04-11T09:58:53.076Z"
         },
         {
-          "id": "DeimosExcavateBounty1712820534202",
-          "rewardPool": [
-            "Ayatan Amber Star",
-            "1000 Endo",
-            "750X Kuva",
-            "Aya",
-            "Xaku Chassis Blueprint",
-            "Quassus Blueprint"
-          ],
-          "type": "Core Samples",
-          "enemyLevels": [
-            40,
-            60
-          ],
-          "standingStages": [
-            22,
-            22,
-            22,
-            22,
-            43
-          ],
-          "minMR": 3,
-          "expiry": "2024-04-11T07:28:54.202Z"
-        },
-        {
-          "id": "DeimosAreaDefenseBounty1712820534202",
+          "id": "DeimosAreaDefenseBounty1712829533076",
           "rewardPool": [
             "Ayatan Amber Star",
             "1000 Endo",
@@ -1132,6 +1140,24 @@
             "Quassus Blueprint"
           ],
           "type": "Reclaim What's Ours",
+          "enemyLevels": [
+            40,
+            60
+          ],
+          "standingStages": [
+            22,
+            22,
+            22,
+            22,
+            44
+          ],
+          "minMR": 3,
+          "expiry": "2024-04-11T09:58:53.076Z"
+        },
+        {
+          "id": "DeimosExcavateBounty1712829533076",
+          "rewardPool": [],
+          "type": "Core Samples",
           "enemyLevels": [
             100,
             100
@@ -1144,25 +1170,26 @@
             50
           ],
           "minMR": 10,
-          "expiry": "2024-04-11T07:28:54.202Z"
+          "expiry": "2024-04-11T09:58:53.076Z"
         },
         {
-          "id": "1712820534202",
+          "id": "1712829533076",
           "rewardPool": [
-            "Theorem Demulcent",
+            "Residual Boils",
             "Necramech Redirection",
             "2X Orokin Orientation Matrix",
-            "Neo K7 Relic",
-            "Theorem Infection",
-            "Necramech Reach",
+            "Meso M4 Relic",
+            "Residual Shock",
+            "Necramech Steel Fiber",
             "2X Orokin Ballistics Matrix",
-            "Neo F3 Relic",
+            "Neo W1 Relic",
+            "Neo Z10 Relic",
             "Theorem Contagion",
             "Necramech Thrusters",
-            "Damaged Necramech Weapon Stock",
+            "Damaged Necramech Weapon Barrel",
             "3X Scintillant",
             "2X Orokin Animus Matrix",
-            "Neo A11 Relic"
+            "Axi A18 Relic"
           ],
           "type": "Isolation Vault Chamber B",
           "enemyLevels": [
@@ -1178,28 +1205,11 @@
           "minMR": 5,
           "isVault": true,
           "locationTag": "ChamberB",
-          "expiry": "2024-04-11T07:28:54.202Z"
+          "expiry": "2024-04-11T09:58:53.076Z"
         },
         {
-          "id": "1712820534202",
-          "rewardPool": [
-            "Theorem Demulcent",
-            "Necramech Blitz",
-            "Arum Spinosa Blueprint",
-            "3X Orokin Orientation Matrix",
-            "Meso H5 Relic",
-            "Theorem Infection",
-            "Necramech Drift",
-            "Arum Spinosa Guard",
-            "3X Orokin Ballistics Matrix",
-            "Neo A11 Relic",
-            "Theorem Contagion",
-            "Necramech Seismic Wave",
-            "Damaged Necramech Weapon Stock",
-            "Arum Spinosa Rivet",
-            "3X Orokin Animus Matrix",
-            "Axi D5 Relic"
-          ],
+          "id": "1712829533076",
+          "rewardPool": [],
           "type": "Isolation Vault Chamber A",
           "enemyLevels": [
             40,
@@ -1214,27 +1224,11 @@
           "minMR": 5,
           "isVault": true,
           "locationTag": "ChamberA",
-          "expiry": "2024-04-11T07:28:54.202Z"
+          "expiry": "2024-04-11T09:58:53.076Z"
         },
         {
-          "id": "1712820534202",
-          "rewardPool": [
-            "Theorem Demulcent",
-            "Necramech Fury",
-            "Sporothrix Blueprint",
-            "4X Orokin Orientation Matrix",
-            "Meso G6 Relic",
-            "Theorem Infection",
-            "Necramech Friction",
-            "Sporothrix Stock",
-            "4X Orokin Ballistics Matrix",
-            "Neo Z10 Relic",
-            "Theorem Contagion",
-            "Necramech Streamline",
-            "Damaged Necramech Weapon Stock",
-            "4X Orokin Animus Matrix",
-            "Meso A5 Relic"
-          ],
+          "id": "1712829533076",
+          "rewardPool": [],
           "type": "Isolation Vault Chamber C",
           "enemyLevels": [
             50,
@@ -1249,86 +1243,86 @@
           "minMR": 5,
           "isVault": true,
           "locationTag": "ChamberC",
-          "expiry": "2024-04-11T07:28:54.202Z"
+          "expiry": "2024-04-11T09:58:53.076Z"
         }
       ],
-      "eta": "44m 53s"
+      "eta": "2h 22m 42s"
     },
     {
-      "id": "1712820534202SolarisSyndicate",
-      "activation": "2024-04-11T04:58:55.328Z",
-      "startString": "-1h 45m 5s",
-      "expiry": "2024-04-11T07:28:54.202Z",
+      "id": "1712829533076SolarisSyndicate",
+      "activation": "2024-04-11T07:28:54.203Z",
+      "startString": "-7m 15s",
+      "expiry": "2024-04-11T09:58:53.076Z",
       "active": true,
-      "syndicate": "Solaris United",
+      "syndicate": "Solaris Unida",
       "syndicateKey": "Solaris United",
       "nodes": [],
       "jobs": [
         {
-          "id": "VenusHelpingJobSpy1712820534202",
+          "id": "VenusPreservationJobResource1712829533076",
           "rewardPool": [
-            "100X Oxium",
+            "100X Plastids",
             "1,500 Credits Cache",
             "50 Endo",
-            "5X Mytocardia Spore",
+            "5X Gorgaricus Spore",
             "2X Training Debt-Bond",
             "Garuda Chassis Blueprint",
             "5X Tepa Nodule",
             "3,000 Credits Cache",
             "Aya"
           ],
-          "type": "Dog Boards",
+          "type": "Trash Their Traps",
           "enemyLevels": [
             5,
             15
           ],
           "standingStages": [
-            440,
-            440,
-            440
+            430,
+            430,
+            430
           ],
           "minMR": 0,
-          "expiry": "2024-04-11T07:28:54.202Z"
+          "expiry": "2024-04-11T09:58:53.076Z"
         },
         {
-          "id": "VenusArtifactJobAmbush1712820534202",
+          "id": "VenusPreservationJobDefense1712829533076",
           "rewardPool": [
-            "15X Mytocardia Spore",
-            "200X Oxium",
+            "15X Gorgaricus Spore",
+            "200X Nano Spores",
             "2,500 Credits Cache",
             "100 Endo",
             "2X Shelter Debt-Bond",
             "Garuda Systems Blueprint",
             "5X Tepa Nodule",
             "Aya",
-            "Synth Charge"
+            "Tek Assault"
           ],
-          "type": "Courier Ambush",
+          "type": "Picket Duty",
           "enemyLevels": [
             10,
             30
           ],
           "standingStages": [
-            660,
-            660,
-            660
+            610,
+            610,
+            610
           ],
           "minMR": 1,
-          "expiry": "2024-04-11T07:28:54.202Z"
+          "expiry": "2024-04-11T09:58:53.076Z"
         },
         {
-          "id": "VenusPreservationJobResource1712820534202",
+          "id": "VenusIntelJobSpy1712829533076",
           "rewardPool": [
-            "Madurai Lens",
+            "Naramon Lens",
             "200 Endo",
-            "300X Circuits",
+            "300X Rubedo",
             "2X Medical Debt-Bond",
             "Garuda Neuroptics Blueprint",
             "3,000 Credits Cache",
             "Aya",
-            "Synth Deconstruct"
+            "Tek Enhance"
           ],
-          "type": "Trash Their Traps",
+          "type": "Financial Liberation",
           "enemyLevels": [
             20,
             40
@@ -1337,66 +1331,75 @@
             580,
             580,
             580,
-            850
+            860
           ],
           "minMR": 2,
-          "expiry": "2024-04-11T07:28:54.202Z"
+          "expiry": "2024-04-11T09:58:53.076Z"
         },
         {
-          "id": "VenusWetworkJobSpy1712820534202",
+          "id": "VenusTheftJobResource1712829533076",
           "rewardPool": [
-            "Vazarin Lens",
+            "200X Kuva",
             "300 Endo",
-            "2X Fieldron",
+            "2X Mutagen Mass",
             "2X Advances Debt-Bond",
             "Aya",
             "Tellurium",
-            "Synth Fiber"
+            "Tek Gravity"
           ],
-          "type": "Falling Star",
+          "type": "Tax the Taxmen",
           "enemyLevels": [
             30,
             50
           ],
           "standingStages": [
-            570,
-            570,
-            570,
-            570,
-            1120
+            560,
+            560,
+            560,
+            560,
+            1100
           ],
           "minMR": 3,
-          "expiry": "2024-04-11T07:28:54.202Z"
+          "expiry": "2024-04-11T09:58:53.076Z"
         },
         {
-          "id": "VenusChaosJobAssassinate1712820534202",
+          "id": "VenusIntelJobRecovery1712829533076",
           "rewardPool": [
             "400 Endo",
+            "Neurodes",
+            "Orokin Cell",
             "2X Familial Debt-Bond",
-            "10,000 Credits Cache",
             "Aya",
             "500X Kuva",
-            "Synth Reflex"
+            "Tek Collateral"
           ],
-          "type": "Scorched Earth",
+          "type": "Proof of Life",
           "enemyLevels": [
             40,
             60
           ],
           "standingStages": [
-            720,
-            720,
-            720,
-            720,
-            1410
+            740,
+            740,
+            740,
+            740,
+            1450
           ],
           "minMR": 5,
-          "expiry": "2024-04-11T07:28:54.202Z"
+          "expiry": "2024-04-11T09:58:53.076Z"
         },
         {
-          "id": "VenusTheftJobResource1712820534202",
-          "rewardPool": [],
-          "type": "Tax the Taxmen",
+          "id": "VenusPreservationJobRecovery1712829533076",
+          "rewardPool": [
+            "400 Endo",
+            "Neurodes",
+            "Orokin Cell",
+            "2X Familial Debt-Bond",
+            "Aya",
+            "500X Kuva",
+            "Tek Collateral"
+          ],
+          "type": "Protect the Innocent",
           "enemyLevels": [
             100,
             100
@@ -1409,24 +1412,24 @@
             1660
           ],
           "minMR": 10,
-          "expiry": "2024-04-11T07:28:54.202Z"
+          "expiry": "2024-04-11T09:58:53.076Z"
         },
         {
-          "id": "NarmerVenusCullJobAssassinate1712820534202",
+          "id": "NarmerVenusCullJobExterminate1712829533076",
           "rewardPool": [
-            "Amar's Anguish",
+            "Nira's Anguish",
             "Narmer Isoplast",
             "600 Endo",
-            "Caliban Systems Blueprint",
-            "Boreal's Hatred",
+            "Caliban Neuroptics Blueprint",
+            "Amar's Hatred",
             "2X Narmer Isoplast",
             "900 Endo",
-            "Nira's Contempt",
-            "Verdilac Blueprint",
+            "Boreal's Contempt",
+            "Korumm Blueprint",
             "3X Narmer Isoplast",
             "1200 Endo"
           ],
-          "type": "Master's Voice (Narmer)",
+          "type": "Crush the Cult (Narmer)",
           "enemyLevels": [
             50,
             70
@@ -1436,34 +1439,34 @@
             770,
             770,
             770,
-            1500
+            1520
           ],
           "minMR": 0,
-          "expiry": "2024-04-11T07:28:54.202Z",
+          "expiry": "2024-04-11T09:58:53.076Z",
           "timeBoound": "night"
         }
       ],
-      "eta": "44m 53s"
+      "eta": "2h 22m 42s"
     },
     {
-      "id": "1712820534202ZarimanSyndicate",
-      "activation": "2024-04-11T04:58:55.328Z",
-      "startString": "-1h 45m 5s",
-      "expiry": "2024-04-11T07:28:54.202Z",
+      "id": "1712829533076ZarimanSyndicate",
+      "activation": "2024-04-11T07:28:54.203Z",
+      "startString": "-7m 15s",
+      "expiry": "2024-04-11T09:58:53.076Z",
       "active": true,
       "syndicate": "The Holdfasts",
       "syndicateKey": "The Holdfasts",
       "nodes": [],
       "jobs": [],
-      "eta": "44m 53s"
+      "eta": "2h 22m 42s"
     },
     {
       "id": "1712851140000ArbitersSyndicate",
       "activation": "2024-04-10T15:59:01.593Z",
-      "startString": "-14h 44m 59s",
+      "startString": "-15h 37m 8s",
       "expiry": "2024-04-11T15:59:00.000Z",
       "active": true,
-      "syndicate": "Arbiters of Hexis",
+      "syndicate": "Árbitros de hexis",
       "syndicateKey": "Arbiters of Hexis",
       "nodes": [
         "Cytherean (Venus)",
@@ -1475,15 +1478,15 @@
         "Regna (Pluto)"
       ],
       "jobs": [],
-      "eta": "9h 14m 59s"
+      "eta": "8h 22m 49s"
     },
     {
       "id": "1712851140000CephalonSudaSyndicate",
       "activation": "2024-04-10T15:59:01.593Z",
-      "startString": "-14h 44m 59s",
+      "startString": "-15h 37m 8s",
       "expiry": "2024-04-11T15:59:00.000Z",
       "active": true,
-      "syndicate": "Cephalon Suda",
+      "syndicate": "Céfalon suda",
       "syndicateKey": "Cephalon Suda",
       "nodes": [
         "Ara (Mars)",
@@ -1495,51 +1498,51 @@
         "Mantle (Earth)"
       ],
       "jobs": [],
-      "eta": "9h 14m 59s"
+      "eta": "8h 22m 49s"
     },
     {
       "id": "1712851140000EventSyndicate",
       "activation": "2024-04-10T15:59:01.593Z",
-      "startString": "-14h 44m 59s",
+      "startString": "-15h 37m 8s",
       "expiry": "2024-04-11T15:59:00.000Z",
       "active": true,
-      "syndicate": "Operations Syndicate",
+      "syndicate": "Sindicato de las operaciones",
       "syndicateKey": "Operations Syndicate",
       "nodes": [],
       "jobs": [],
-      "eta": "9h 14m 59s"
+      "eta": "8h 22m 49s"
     },
     {
       "id": "1712851140000KahlSyndicate",
       "activation": "2024-04-10T15:59:01.593Z",
-      "startString": "-14h 44m 59s",
+      "startString": "-15h 37m 8s",
       "expiry": "2024-04-11T15:59:00.000Z",
       "active": true,
       "syndicate": "Kahl's Garrison",
       "syndicateKey": "Kahl's Garrison",
       "nodes": [],
       "jobs": [],
-      "eta": "9h 14m 59s"
+      "eta": "8h 22m 49s"
     },
     {
       "id": "1712851140000NecraloidSyndicate",
       "activation": "2024-04-10T15:59:01.593Z",
-      "startString": "-14h 44m 59s",
+      "startString": "-15h 37m 8s",
       "expiry": "2024-04-11T15:59:00.000Z",
       "active": true,
       "syndicate": "Necraloid",
       "syndicateKey": "Necraloid",
       "nodes": [],
       "jobs": [],
-      "eta": "9h 14m 59s"
+      "eta": "8h 22m 49s"
     },
     {
       "id": "1712851140000NewLokaSyndicate",
       "activation": "2024-04-10T15:59:01.593Z",
-      "startString": "-14h 44m 59s",
+      "startString": "-15h 37m 8s",
       "expiry": "2024-04-11T15:59:00.000Z",
       "active": true,
-      "syndicate": "New Loka",
+      "syndicate": "Nuevo loka",
       "syndicateKey": "New Loka",
       "nodes": [
         "Pantheon (Mercury)",
@@ -1551,15 +1554,15 @@
         "Ultor (Mars)"
       ],
       "jobs": [],
-      "eta": "9h 14m 59s"
+      "eta": "8h 22m 49s"
     },
     {
       "id": "1712851140000PerrinSyndicate",
       "activation": "2024-04-10T15:59:01.593Z",
-      "startString": "-14h 44m 59s",
+      "startString": "-15h 37m 8s",
       "expiry": "2024-04-11T15:59:00.000Z",
       "active": true,
-      "syndicate": "Perrin Sequence",
+      "syndicate": "Secuencia perrin",
       "syndicateKey": "Perrin Sequence",
       "nodes": [
         "Lith (Earth)",
@@ -1571,171 +1574,171 @@
         "Sorath (Europa)"
       ],
       "jobs": [],
-      "eta": "9h 14m 59s"
+      "eta": "8h 22m 49s"
     },
     {
       "id": "1712851140000QuillsSyndicate",
       "activation": "2024-04-10T15:59:01.593Z",
-      "startString": "-14h 44m 59s",
+      "startString": "-15h 37m 8s",
       "expiry": "2024-04-11T15:59:00.000Z",
       "active": true,
-      "syndicate": "Quills",
+      "syndicate": "Raquis",
       "syndicateKey": "Quills",
       "nodes": [],
       "jobs": [],
-      "eta": "9h 14m 59s"
+      "eta": "8h 22m 49s"
     },
     {
       "id": "1712851140000RadioLegion2Syndicate",
       "activation": "2024-04-10T15:59:01.593Z",
-      "startString": "-14h 44m 59s",
+      "startString": "-15h 37m 8s",
       "expiry": "2024-04-11T15:59:00.000Z",
       "active": true,
       "syndicate": "The Emissary",
       "syndicateKey": "The Emissary",
       "nodes": [],
       "jobs": [],
-      "eta": "9h 14m 59s"
+      "eta": "8h 22m 49s"
     },
     {
       "id": "1712851140000RadioLegion3Syndicate",
       "activation": "2024-04-10T15:59:01.593Z",
-      "startString": "-14h 44m 59s",
+      "startString": "-15h 37m 8s",
       "expiry": "2024-04-11T15:59:00.000Z",
       "active": true,
       "syndicate": "Glassmaker",
       "syndicateKey": "Glassmaker",
       "nodes": [],
       "jobs": [],
-      "eta": "9h 14m 59s"
+      "eta": "8h 22m 49s"
     },
     {
       "id": "1712851140000RadioLegionIntermission2Syndicate",
       "activation": "2024-04-10T15:59:01.593Z",
-      "startString": "-14h 44m 59s",
+      "startString": "-15h 37m 8s",
       "expiry": "2024-04-11T15:59:00.000Z",
       "active": true,
       "syndicate": "Intermission II",
       "syndicateKey": "Intermission II",
       "nodes": [],
       "jobs": [],
-      "eta": "9h 14m 59s"
+      "eta": "8h 22m 49s"
     },
     {
       "id": "1712851140000RadioLegionIntermission3Syndicate",
       "activation": "2024-04-10T15:59:01.593Z",
-      "startString": "-14h 44m 59s",
+      "startString": "-15h 37m 8s",
       "expiry": "2024-04-11T15:59:00.000Z",
       "active": true,
       "syndicate": "Intermission III",
       "syndicateKey": "Intermission III",
       "nodes": [],
       "jobs": [],
-      "eta": "9h 14m 59s"
+      "eta": "8h 22m 49s"
     },
     {
       "id": "1712851140000RadioLegionIntermission4Syndicate",
       "activation": "2024-04-10T15:59:01.593Z",
-      "startString": "-14h 44m 59s",
+      "startString": "-15h 37m 8s",
       "expiry": "2024-04-11T15:59:00.000Z",
       "active": true,
       "syndicate": "Nora's Choice",
       "syndicateKey": "Nora's Choice",
       "nodes": [],
       "jobs": [],
-      "eta": "9h 14m 59s"
+      "eta": "8h 22m 49s"
     },
     {
       "id": "1712851140000RadioLegionIntermission5Syndicate",
       "activation": "2024-04-10T15:59:01.593Z",
-      "startString": "-14h 44m 59s",
+      "startString": "-15h 37m 8s",
       "expiry": "2024-04-11T15:59:00.000Z",
       "active": true,
       "syndicate": "Nora's Mix Volume 1",
       "syndicateKey": "Nora's Mix Volume 1",
       "nodes": [],
       "jobs": [],
-      "eta": "9h 14m 59s"
+      "eta": "8h 22m 49s"
     },
     {
       "id": "1712851140000RadioLegionIntermission6Syndicate",
       "activation": "2024-04-10T15:59:01.593Z",
-      "startString": "-14h 44m 59s",
+      "startString": "-15h 37m 8s",
       "expiry": "2024-04-11T15:59:00.000Z",
       "active": true,
       "syndicate": "Nora's Mix Volume 2",
       "syndicateKey": "Nora's Mix Volume 2",
       "nodes": [],
       "jobs": [],
-      "eta": "9h 14m 59s"
+      "eta": "8h 22m 49s"
     },
     {
       "id": "1712851140000RadioLegionIntermission7Syndicate",
       "activation": "2024-04-10T15:59:01.593Z",
-      "startString": "-14h 44m 59s",
+      "startString": "-15h 37m 8s",
       "expiry": "2024-04-11T15:59:00.000Z",
       "active": true,
       "syndicate": "RadioLegionIntermission7Syndicate",
       "syndicateKey": "RadioLegionIntermission7Syndicate",
       "nodes": [],
       "jobs": [],
-      "eta": "9h 14m 59s"
+      "eta": "8h 22m 49s"
     },
     {
       "id": "1712851140000RadioLegionIntermission8Syndicate",
       "activation": "2024-04-10T15:59:01.593Z",
-      "startString": "-14h 44m 59s",
+      "startString": "-15h 37m 8s",
       "expiry": "2024-04-11T15:59:00.000Z",
       "active": true,
       "syndicate": "RadioLegionIntermission8Syndicate",
       "syndicateKey": "RadioLegionIntermission8Syndicate",
       "nodes": [],
       "jobs": [],
-      "eta": "9h 14m 59s"
+      "eta": "8h 22m 49s"
     },
     {
       "id": "1712851140000RadioLegionIntermission9Syndicate",
       "activation": "2024-04-10T15:59:01.593Z",
-      "startString": "-14h 44m 59s",
+      "startString": "-15h 37m 8s",
       "expiry": "2024-04-11T15:59:00.000Z",
       "active": true,
       "syndicate": "RadioLegionIntermission9Syndicate",
       "syndicateKey": "RadioLegionIntermission9Syndicate",
       "nodes": [],
       "jobs": [],
-      "eta": "9h 14m 59s"
+      "eta": "8h 22m 49s"
     },
     {
       "id": "1712851140000RadioLegionIntermissionSyndicate",
       "activation": "2024-04-10T15:59:01.593Z",
-      "startString": "-14h 44m 59s",
+      "startString": "-15h 37m 8s",
       "expiry": "2024-04-11T15:59:00.000Z",
       "active": true,
       "syndicate": "Intermission",
       "syndicateKey": "Intermission",
       "nodes": [],
       "jobs": [],
-      "eta": "9h 14m 59s"
+      "eta": "8h 22m 49s"
     },
     {
       "id": "1712851140000RadioLegionSyndicate",
       "activation": "2024-04-10T15:59:01.593Z",
-      "startString": "-14h 44m 59s",
+      "startString": "-15h 37m 8s",
       "expiry": "2024-04-11T15:59:00.000Z",
       "active": true,
       "syndicate": "The Wolf of Saturn Six",
       "syndicateKey": "The Wolf of Saturn Six",
       "nodes": [],
       "jobs": [],
-      "eta": "9h 14m 59s"
+      "eta": "8h 22m 49s"
     },
     {
       "id": "1712851140000RedVeilSyndicate",
       "activation": "2024-04-10T15:59:01.593Z",
-      "startString": "-14h 44m 59s",
+      "startString": "-15h 37m 8s",
       "expiry": "2024-04-11T15:59:00.000Z",
       "active": true,
-      "syndicate": "Red Veil",
+      "syndicate": "Velo rojo",
       "syndicateKey": "Red Veil",
       "nodes": [
         "Mariana (Earth)",
@@ -1747,15 +1750,15 @@
         "Naeglar (Eris)"
       ],
       "jobs": [],
-      "eta": "9h 14m 59s"
+      "eta": "8h 22m 49s"
     },
     {
       "id": "1712851140000SteelMeridianSyndicate",
       "activation": "2024-04-10T15:59:01.593Z",
-      "startString": "-14h 44m 59s",
+      "startString": "-15h 37m 8s",
       "expiry": "2024-04-11T15:59:00.000Z",
       "active": true,
-      "syndicate": "Steel Meridian",
+      "syndicate": "Meridiano de acero",
       "syndicateKey": "Steel Meridian",
       "nodes": [
         "Gaia (Earth)",
@@ -1767,213 +1770,61 @@
         "Cassini (Saturn)"
       ],
       "jobs": [],
-      "eta": "9h 14m 59s"
+      "eta": "8h 22m 49s"
     },
     {
       "id": "1712851140000VentKidsSyndicate",
       "activation": "2024-04-10T15:59:01.593Z",
-      "startString": "-14h 44m 59s",
+      "startString": "-15h 37m 8s",
       "expiry": "2024-04-11T15:59:00.000Z",
       "active": true,
-      "syndicate": "Vent Kids",
+      "syndicate": "Ventkids",
       "syndicateKey": "Vent Kids",
       "nodes": [],
       "jobs": [],
-      "eta": "9h 14m 59s"
+      "eta": "8h 22m 49s"
     },
     {
       "id": "1712851140000VoxSyndicate",
       "activation": "2024-04-10T15:59:01.593Z",
-      "startString": "-14h 44m 59s",
+      "startString": "-15h 37m 8s",
       "expiry": "2024-04-11T15:59:00.000Z",
       "active": true,
       "syndicate": "Vox Solaris",
       "syndicateKey": "Vox Solaris",
       "nodes": [],
       "jobs": [],
-      "eta": "9h 14m 59s"
+      "eta": "8h 22m 49s"
     }
   ],
   "fissures": [
     {
-      "id": "661772c5765ef362159dcb70",
-      "activation": "2024-04-11T05:19:01.687Z",
-      "startString": "-1h 24m 59s",
-      "expiry": "2024-04-11T07:18:35.412Z",
-      "active": true,
-      "node": "Despina (Neptune)",
-      "missionType": "Excavation",
-      "missionKey": "Excavation",
-      "enemy": "Corpus",
-      "enemyKey": "Corpus",
-      "nodeKey": "Despina (Neptune)",
-      "tier": "Neo",
-      "tierNum": 3,
-      "expired": false,
-      "eta": "34m 34s",
-      "isStorm": false,
-      "isHard": false
-    },
-    {
-      "id": "6617733e8be0f3152561e6be",
-      "activation": "2024-04-11T05:21:02.038Z",
-      "startString": "-1h 22m 58s",
-      "expiry": "2024-04-11T07:04:37.971Z",
-      "active": true,
-      "node": "Kala-azar (Eris)",
-      "missionType": "Defense",
-      "missionKey": "Defense",
-      "enemy": "Infested",
-      "enemyKey": "Infested",
-      "nodeKey": "Kala-azar (Eris)",
-      "tier": "Axi",
-      "tierNum": 4,
-      "expired": false,
-      "eta": "20m 37s",
-      "isStorm": false,
-      "isHard": false
-    },
-    {
-      "id": "661774a6fca6bd291e1d7f74",
-      "activation": "2024-04-11T05:27:01.990Z",
-      "startString": "-1h 16m 58s",
-      "expiry": "2024-04-11T06:46:55.331Z",
-      "active": true,
-      "node": "Carpo (Jupiter)",
-      "missionType": "Extermination",
-      "missionKey": "Extermination",
-      "enemy": "Corpus",
-      "enemyKey": "Corpus",
-      "nodeKey": "Carpo (Jupiter)",
-      "tier": "Meso",
-      "tierNum": 2,
-      "expired": false,
-      "eta": "2m 54s",
-      "isStorm": false,
-      "isHard": false
-    },
-    {
-      "id": "661774a6fca6bd291e1d7f75",
-      "activation": "2024-04-11T05:27:01.990Z",
-      "startString": "-1h 16m 58s",
-      "expiry": "2024-04-11T07:26:44.803Z",
-      "active": true,
-      "node": "Thon (Ceres)",
-      "missionType": "Sabotage",
-      "missionKey": "Sabotage",
-      "enemy": "Grineer",
-      "enemyKey": "Grineer",
-      "nodeKey": "Thon (Ceres)",
-      "tier": "Meso",
-      "tierNum": 2,
-      "expired": false,
-      "eta": "42m 44s",
-      "isStorm": false,
-      "isHard": false
-    },
-    {
-      "id": "661778dd03ccc0e26bc50faf",
-      "activation": "2024-04-11T05:45:01.952Z",
-      "startString": "-58m 58s",
-      "expiry": "2024-04-11T06:49:16.191Z",
-      "active": true,
-      "node": "Pacific (Earth)",
-      "missionType": "Rescue",
-      "missionKey": "Rescue",
-      "enemy": "Grineer",
-      "enemyKey": "Grineer",
-      "nodeKey": "Pacific (Earth)",
-      "tier": "Lith",
-      "tierNum": 1,
-      "expired": false,
-      "eta": "5m 15s",
-      "isStorm": false,
-      "isHard": true
-    },
-    {
-      "id": "661778dd03ccc0e26bc50fb0",
-      "activation": "2024-04-11T05:45:01.952Z",
-      "startString": "-58m 58s",
-      "expiry": "2024-04-11T07:16:42.234Z",
-      "active": true,
-      "node": "Spear (Mars)",
-      "missionType": "Defense",
-      "missionKey": "Defense",
-      "enemy": "Grineer",
-      "enemyKey": "Grineer",
-      "nodeKey": "Spear (Mars)",
-      "tier": "Lith",
-      "tierNum": 1,
-      "expired": false,
-      "eta": "32m 41s",
-      "isStorm": false,
-      "isHard": true
-    },
-    {
-      "id": "6617795501d54d273ca22686",
-      "activation": "2024-04-11T05:47:01.283Z",
-      "startString": "-56m 59s",
-      "expiry": "2024-04-11T07:09:40.526Z",
-      "active": true,
-      "node": "Yuvarium (Lua)",
-      "missionType": "Survival",
-      "missionKey": "Survival",
-      "enemy": "Orokin",
-      "enemyKey": "Orokin",
-      "nodeKey": "Yuvarium (Lua)",
-      "tier": "Omnia",
-      "tierNum": 6,
-      "expired": false,
-      "eta": "25m 39s",
-      "isStorm": false,
-      "isHard": true
-    },
-    {
       "id": "66177991f50c022f4f6a86ad",
       "activation": "2024-04-11T05:48:01.435Z",
-      "startString": "-55m 59s",
+      "startString": "-1h 48m 8s",
       "expiry": "2024-04-11T07:35:06.653Z",
-      "active": true,
+      "active": false,
       "node": "Nimus (Eris)",
-      "missionType": "Survival",
+      "missionType": "Supervivencia",
       "missionKey": "Survival",
-      "enemy": "Infested",
+      "enemy": "Infestados",
       "enemyKey": "Infested",
       "nodeKey": "Nimus (Eris)",
       "tier": "Axi",
       "tierNum": 4,
-      "expired": false,
-      "eta": "51m 5s",
-      "isStorm": false,
-      "isHard": true
-    },
-    {
-      "id": "66177991f50c022f4f6a86ae",
-      "activation": "2024-04-11T05:48:01.435Z",
-      "startString": "-55m 59s",
-      "expiry": "2024-04-11T06:51:06.506Z",
-      "active": true,
-      "node": "Outer Terminus (Pluto)",
-      "missionType": "Defense",
-      "missionKey": "Defense",
-      "enemy": "Corpus",
-      "enemyKey": "Corpus",
-      "nodeKey": "Outer Terminus (Pluto)",
-      "tier": "Axi",
-      "tierNum": 4,
-      "expired": false,
-      "eta": "7m 5s",
+      "expired": true,
+      "eta": "-1m 3s",
       "isStorm": false,
       "isHard": true
     },
     {
       "id": "66177ef507a099323c06b023",
       "activation": "2024-04-11T06:11:01.844Z",
-      "startString": "-32m 58s",
+      "startString": "-1h 25m 8s",
       "expiry": "2024-04-11T07:46:43.948Z",
       "active": true,
       "node": "Valefor (Europa)",
-      "missionType": "Excavation",
+      "missionType": "Excavación",
       "missionKey": "Excavation",
       "enemy": "Corpus",
       "enemyKey": "Corpus",
@@ -1981,37 +1832,18 @@
       "tier": "Neo",
       "tierNum": 3,
       "expired": false,
-      "eta": "1h 2m 43s",
-      "isStorm": false,
-      "isHard": true
-    },
-    {
-      "id": "66177ef507a099323c06b024",
-      "activation": "2024-04-11T06:11:01.844Z",
-      "startString": "-32m 58s",
-      "expiry": "2024-04-11T07:32:14.121Z",
-      "active": true,
-      "node": "Monolith (Phobos)",
-      "missionType": "Rescue",
-      "missionKey": "Rescue",
-      "enemy": "Corpus",
-      "enemyKey": "Corpus",
-      "nodeKey": "Monolith (Phobos)",
-      "tier": "Meso",
-      "tierNum": 2,
-      "expired": false,
-      "eta": "48m 13s",
+      "eta": "10m 33s",
       "isStorm": false,
       "isHard": true
     },
     {
       "id": "66177ef507a099323c06b025",
       "activation": "2024-04-11T06:11:01.844Z",
-      "startString": "-32m 58s",
+      "startString": "-1h 25m 8s",
       "expiry": "2024-04-11T08:05:20.043Z",
       "active": true,
       "node": "Cinxia (Ceres)",
-      "missionType": "Interception",
+      "missionType": "Interceptación",
       "missionKey": "Interception",
       "enemy": "Grineer",
       "enemyKey": "Grineer",
@@ -2019,18 +1851,18 @@
       "tier": "Meso",
       "tierNum": 2,
       "expired": false,
-      "eta": "1h 21m 19s",
+      "eta": "29m 9s",
       "isStorm": false,
       "isHard": true
     },
     {
       "id": "66177f6db76d93faeb474a70",
       "activation": "2024-04-11T06:13:01.165Z",
-      "startString": "-30m 59s",
+      "startString": "-1h 23m 8s",
       "expiry": "2024-04-11T07:57:05.112Z",
       "active": true,
       "node": "Circulus (Lua)",
-      "missionType": "Survival",
+      "missionType": "Supervivencia",
       "missionKey": "Survival",
       "enemy": "Grineer",
       "enemyKey": "Grineer",
@@ -2038,18 +1870,18 @@
       "tier": "Omnia",
       "tierNum": 6,
       "expired": false,
-      "eta": "1h 13m 4s",
+      "eta": "20m 55s",
       "isStorm": false,
       "isHard": false
     },
     {
       "id": "6617802142931ee95037db57",
       "activation": "2024-04-11T06:16:01.713Z",
-      "startString": "-27m 59s",
+      "startString": "-1h 20m 8s",
       "expiry": "2024-04-11T07:59:47.137Z",
       "active": true,
-      "node": "Everest (Earth)",
-      "missionType": "Excavation",
+      "node": "Everest (Tierra)",
+      "missionType": "Excavación",
       "missionKey": "Excavation",
       "enemy": "Grineer",
       "enemyKey": "Grineer",
@@ -2057,56 +1889,18 @@
       "tier": "Lith",
       "tierNum": 1,
       "expired": false,
-      "eta": "1h 15m 46s",
+      "eta": "23m 37s",
       "isStorm": false,
       "isHard": false
-    },
-    {
-      "id": "6617802142931ee95037db58",
-      "activation": "2024-04-11T06:16:01.713Z",
-      "startString": "-27m 59s",
-      "expiry": "2024-04-11T07:19:11.305Z",
-      "active": true,
-      "node": "Augustus (Mars)",
-      "missionType": "Excavation",
-      "missionKey": "Excavation",
-      "enemy": "Grineer",
-      "enemyKey": "Grineer",
-      "nodeKey": "Augustus (Mars)",
-      "tier": "Lith",
-      "tierNum": 1,
-      "expired": false,
-      "eta": "35m 10s",
-      "isStorm": false,
-      "isHard": false
-    },
-    {
-      "id": "6617814dd53cdd94224af48b",
-      "activation": "2024-04-11T06:21:01.835Z",
-      "startString": "-22m 58s",
-      "expiry": "2024-04-11T07:22:07.619Z",
-      "active": true,
-      "node": "Garus (Kuva Fortress)",
-      "missionType": "Rescue",
-      "missionKey": "Rescue",
-      "enemy": "Grineer",
-      "enemyKey": "Grineer",
-      "nodeKey": "Garus (Kuva Fortress)",
-      "tier": "Requiem",
-      "tierNum": 5,
-      "expired": false,
-      "eta": "38m 6s",
-      "isStorm": false,
-      "isHard": true
     },
     {
       "id": "6617850dbf6ca9fb47ddfe4d",
       "activation": "2024-04-11T06:37:01.581Z",
-      "startString": "-6m 59s",
+      "startString": "-59m 8s",
       "expiry": "2024-04-11T08:05:18.922Z",
       "active": true,
-      "node": "Taveuni (Kuva Fortress)",
-      "missionType": "Survival",
+      "node": "Taveuni (Fortaleza kuva)",
+      "missionType": "Supervivencia",
       "missionKey": "Survival",
       "enemy": "Grineer",
       "enemyKey": "Grineer",
@@ -2114,18 +1908,18 @@
       "tier": "Requiem",
       "tierNum": 5,
       "expired": false,
-      "eta": "1h 21m 18s",
+      "eta": "29m 8s",
       "isStorm": false,
       "isHard": false
     },
     {
       "id": "6617850dbf6ca9fb47ddfe4e",
       "activation": "2024-04-11T06:37:01.581Z",
-      "startString": "-6m 59s",
+      "startString": "-59m 8s",
       "expiry": "2024-04-11T08:32:23.404Z",
       "active": true,
-      "node": "Tamu (Kuva Fortress)",
-      "missionType": "Disruption",
+      "node": "Tamu (Fortaleza kuva)",
+      "missionType": "Interrupción",
       "missionKey": "Disruption",
       "enemy": "Grineer",
       "enemyKey": "Grineer",
@@ -2133,132 +1927,227 @@
       "tier": "Requiem",
       "tierNum": 5,
       "expired": false,
-      "eta": "1h 48m 22s",
+      "eta": "56m 13s",
       "isStorm": false,
       "isHard": false
     },
     {
-      "id": "661764f2a01bbe09d8779ed2",
-      "activation": "2024-04-11T05:20:01.825Z",
-      "startString": "-1h 23m 58s",
-      "expiry": "2024-04-11T06:50:01.825Z",
+      "id": "66178a717919fc94b37a3108",
+      "activation": "2024-04-11T07:00:01.721Z",
+      "startString": "-36m 8s",
+      "expiry": "2024-04-11T08:42:11.884Z",
       "active": true,
-      "node": "Luckless Expanse (Venus)",
-      "missionType": "Survival",
-      "missionKey": "Survival",
-      "enemy": "Corpus",
-      "enemyKey": "Corpus",
-      "nodeKey": "Luckless Expanse (Venus)",
-      "tier": "Lith",
-      "tierNum": 1,
-      "expired": false,
-      "eta": "6m 1s",
-      "isStorm": true,
-      "isHard": false
-    },
-    {
-      "id": "661764f2a01bbe09d8779ed1",
-      "activation": "2024-04-11T05:20:01.821Z",
-      "startString": "-1h 23m 58s",
-      "expiry": "2024-04-11T06:50:01.821Z",
-      "active": true,
-      "node": "Iota Temple (Earth)",
-      "missionType": "Skirmish",
-      "missionKey": "Skirmish",
-      "enemy": "Grineer",
-      "enemyKey": "Grineer",
-      "nodeKey": "Iota Temple (Earth)",
-      "tier": "Lith",
-      "tierNum": 1,
-      "expired": false,
-      "eta": "6m 1s",
-      "isStorm": true,
-      "isHard": false
-    },
-    {
-      "id": "661764f2a01bbe09d8779ed5",
-      "activation": "2024-04-11T05:20:01.832Z",
-      "startString": "-1h 23m 58s",
-      "expiry": "2024-04-11T06:50:01.832Z",
-      "active": true,
-      "node": "Peregrine Axis (Pluto)",
-      "missionType": "Orphix",
-      "missionKey": "Orphix",
-      "enemy": "Corpus",
-      "enemyKey": "Corpus",
-      "nodeKey": "Peregrine Axis (Pluto)",
+      "node": "Solium (Eris)",
+      "missionType": "Defensa móvil",
+      "missionKey": "Mobile Defense",
+      "enemy": "Infestados",
+      "enemyKey": "Infested",
+      "nodeKey": "Solium (Eris)",
       "tier": "Axi",
       "tierNum": 4,
       "expired": false,
-      "eta": "6m 1s",
-      "isStorm": true,
+      "eta": "1h 6m 1s",
+      "isStorm": false,
       "isHard": false
     },
     {
-      "id": "661764f2a01bbe09d8779ed6",
-      "activation": "2024-04-11T05:20:01.834Z",
-      "startString": "-1h 23m 58s",
-      "expiry": "2024-04-11T06:50:01.834Z",
+      "id": "66178a717919fc94b37a3109",
+      "activation": "2024-04-11T07:00:01.721Z",
+      "startString": "-36m 8s",
+      "expiry": "2024-04-11T08:24:27.506Z",
       "active": true,
-      "node": "H-2 Cloud (Veil)",
-      "missionType": "Skirmish",
-      "missionKey": "Skirmish",
-      "enemy": "Grineer",
-      "enemyKey": "Grineer",
-      "nodeKey": "H-2 Cloud (Veil)",
+      "node": "Tiwaz (Vacío)",
+      "missionType": "Defensa móvil",
+      "missionKey": "Mobile Defense",
+      "enemy": "Orokin",
+      "enemyKey": "Orokin",
+      "nodeKey": "Tiwaz (Void)",
       "tier": "Axi",
       "tierNum": 4,
       "expired": false,
-      "eta": "6m 1s",
-      "isStorm": true,
+      "eta": "48m 17s",
+      "isStorm": false,
       "isHard": false
     },
     {
-      "id": "661764f2a01bbe09d8779ed3",
-      "activation": "2024-04-11T05:20:01.827Z",
-      "startString": "-1h 23m 58s",
-      "expiry": "2024-04-11T06:50:01.827Z",
+      "id": "66178b9d3f3662c72eb1f05f",
+      "activation": "2024-04-11T07:05:01.501Z",
+      "startString": "-31m 8s",
+      "expiry": "2024-04-11T08:22:26.802Z",
       "active": true,
-      "node": "Vand Cluster (Saturn)",
-      "missionType": "Skirmish",
-      "missionKey": "Skirmish",
-      "enemy": "Grineer",
-      "enemyKey": "Grineer",
-      "nodeKey": "Vand Cluster (Saturn)",
-      "tier": "Meso",
-      "tierNum": 2,
+      "node": "Tuvul Commons (Zariman)",
+      "missionType": "Void_cascade",
+      "missionKey": "Void_cascade",
+      "enemy": "Fuego cruzado",
+      "enemyKey": "Crossfire",
+      "nodeKey": "Tuvul Commons (Zariman)",
+      "tier": "Omnia",
+      "tierNum": 6,
       "expired": false,
-      "eta": "6m 1s",
-      "isStorm": true,
-      "isHard": false
+      "eta": "46m 16s",
+      "isStorm": false,
+      "isHard": true
     },
     {
-      "id": "661764f2a01bbe09d8779ed4",
-      "activation": "2024-04-11T05:20:01.829Z",
-      "startString": "-1h 23m 58s",
-      "expiry": "2024-04-11T06:50:01.829Z",
+      "id": "66178d4139d13cb6f86d0318",
+      "activation": "2024-04-11T07:12:01.718Z",
+      "startString": "-24m 8s",
+      "expiry": "2024-04-11T08:52:23.935Z",
       "active": true,
-      "node": "Enkidu Ice Drifts (Neptune)",
-      "missionType": "Survival",
-      "missionKey": "Survival",
+      "node": "E Gate (Venus)",
+      "missionType": "Exterminio",
+      "missionKey": "Extermination",
       "enemy": "Corpus",
       "enemyKey": "Corpus",
-      "nodeKey": "Enkidu Ice Drifts (Neptune)",
+      "nodeKey": "E Gate (Venus)",
+      "tier": "Lith",
+      "tierNum": 1,
+      "expired": false,
+      "eta": "1h 16m 13s",
+      "isStorm": false,
+      "isHard": true
+    },
+    {
+      "id": "66178d4139d13cb6f86d0319",
+      "activation": "2024-04-11T07:12:01.718Z",
+      "startString": "-24m 8s",
+      "expiry": "2024-04-11T08:14:02.505Z",
+      "active": true,
+      "node": "Tharsis (Marte)",
+      "missionType": "Defensa móvil",
+      "missionKey": "Mobile Defense",
+      "enemy": "Corpus",
+      "enemyKey": "Corpus",
+      "nodeKey": "Tharsis (Mars)",
+      "tier": "Lith",
+      "tierNum": 1,
+      "expired": false,
+      "eta": "37m 52s",
+      "isStorm": false,
+      "isHard": true
+    },
+    {
+      "id": "66178dbab805fa1dd1b8cab8",
+      "activation": "2024-04-11T07:14:02.026Z",
+      "startString": "-22m 8s",
+      "expiry": "2024-04-11T08:44:34.855Z",
+      "active": true,
+      "node": "Proteo (Neptuno)",
+      "missionType": "Defensa",
+      "missionKey": "Defense",
+      "enemy": "Corpus",
+      "enemyKey": "Corpus",
+      "nodeKey": "Proteus (Neptune)",
       "tier": "Neo",
       "tierNum": 3,
       "expired": false,
-      "eta": "6m 1s",
-      "isStorm": true,
+      "eta": "1h 8m 24s",
+      "isStorm": false,
       "isHard": false
+    },
+    {
+      "id": "66178ea945b98347c6f046c3",
+      "activation": "2024-04-11T07:18:01.739Z",
+      "startString": "-18m 8s",
+      "expiry": "2024-04-11T08:35:25.911Z",
+      "active": true,
+      "node": "Nabuk (Fortaleza kuva)",
+      "missionType": "Defensa",
+      "missionKey": "Defense",
+      "enemy": "Grineer",
+      "enemyKey": "Grineer",
+      "nodeKey": "Nabuk (Kuva Fortress)",
+      "tier": "Requiem",
+      "tierNum": 5,
+      "expired": false,
+      "eta": "59m 15s",
+      "isStorm": false,
+      "isHard": true
+    },
+    {
+      "id": "66178ea945b98347c6f046c4",
+      "activation": "2024-04-11T07:18:01.739Z",
+      "startString": "-18m 8s",
+      "expiry": "2024-04-11T08:49:47.819Z",
+      "active": true,
+      "node": "Pago (Fortaleza kuva)",
+      "missionType": "Espionaje",
+      "missionKey": "Spy",
+      "enemy": "Grineer",
+      "enemyKey": "Grineer",
+      "nodeKey": "Pago (Kuva Fortress)",
+      "tier": "Requiem",
+      "tierNum": 5,
+      "expired": false,
+      "eta": "1h 13m 37s",
+      "isStorm": false,
+      "isHard": true
+    },
+    {
+      "id": "66178f9954001d67a856d46d",
+      "activation": "2024-04-11T07:22:01.408Z",
+      "startString": "-14m 8s",
+      "expiry": "2024-04-11T08:39:34.207Z",
+      "active": true,
+      "node": "Telesto (Saturno)",
+      "missionType": "Exterminio",
+      "missionKey": "Extermination",
+      "enemy": "Grineer",
+      "enemyKey": "Grineer",
+      "nodeKey": "Telesto (Saturn)",
+      "tier": "Meso",
+      "tierNum": 2,
+      "expired": false,
+      "eta": "1h 3m 24s",
+      "isStorm": false,
+      "isHard": false
+    },
+    {
+      "id": "66178f9954001d67a856d46e",
+      "activation": "2024-04-11T07:22:01.408Z",
+      "startString": "-14m 8s",
+      "expiry": "2024-04-11T08:38:10.597Z",
+      "active": true,
+      "node": "Ananké (Júpiter)",
+      "missionType": "Captura",
+      "missionKey": "Capture",
+      "enemy": "Corpus",
+      "enemyKey": "Corpus",
+      "nodeKey": "Ananke (Jupiter)",
+      "tier": "Meso",
+      "tierNum": 2,
+      "expired": false,
+      "eta": "1h 2m 0s",
+      "isStorm": false,
+      "isHard": false
+    },
+    {
+      "id": "661791b57c81817f7ddf1557",
+      "activation": "2024-04-11T07:31:01.677Z",
+      "startString": "-5m 8s",
+      "expiry": "2024-04-11T09:13:33.396Z",
+      "active": true,
+      "node": "Teshub (Vacío)",
+      "missionType": "Exterminio",
+      "missionKey": "Extermination",
+      "enemy": "Orokin",
+      "enemyKey": "Orokin",
+      "nodeKey": "Teshub (Void)",
+      "tier": "Axi",
+      "tierNum": 4,
+      "expired": false,
+      "eta": "1h 37m 23s",
+      "isStorm": false,
+      "isHard": true
     },
     {
       "id": "66177301a4443b15cdf95797",
       "activation": "2024-04-11T06:20:01.821Z",
-      "startString": "-23m 58s",
+      "startString": "-1h 16m 8s",
       "expiry": "2024-04-11T07:50:01.821Z",
       "active": true,
       "node": "Bendar Cluster (Earth)",
-      "missionType": "Skirmish",
+      "missionType": "Escaramuza",
       "missionKey": "Skirmish",
       "enemy": "Grineer",
       "enemyKey": "Grineer",
@@ -2266,18 +2155,18 @@
       "tier": "Lith",
       "tierNum": 1,
       "expired": false,
-      "eta": "1h 6m 1s",
+      "eta": "13m 51s",
       "isStorm": true,
       "isHard": false
     },
     {
       "id": "661777b20d9cb8c8b5302674",
       "activation": "2024-04-11T06:20:01.825Z",
-      "startString": "-23m 58s",
+      "startString": "-1h 16m 8s",
       "expiry": "2024-04-11T07:50:01.825Z",
       "active": true,
       "node": "Orvin-Haarc (Venus)",
-      "missionType": "Spy",
+      "missionType": "Espionaje",
       "missionKey": "Spy",
       "enemy": "Corpus",
       "enemyKey": "Corpus",
@@ -2285,18 +2174,18 @@
       "tier": "Lith",
       "tierNum": 1,
       "expired": false,
-      "eta": "1h 6m 1s",
+      "eta": "13m 51s",
       "isStorm": true,
       "isHard": false
     },
     {
       "id": "661777b20d9cb8c8b5302675",
       "activation": "2024-04-11T06:20:01.827Z",
-      "startString": "-23m 58s",
+      "startString": "-1h 16m 8s",
       "expiry": "2024-04-11T07:50:01.827Z",
       "active": true,
       "node": "Kasio's Rest (Saturn)",
-      "missionType": "Skirmish",
+      "missionType": "Escaramuza",
       "missionKey": "Skirmish",
       "enemy": "Grineer",
       "enemyKey": "Grineer",
@@ -2304,18 +2193,18 @@
       "tier": "Meso",
       "tierNum": 2,
       "expired": false,
-      "eta": "1h 6m 1s",
+      "eta": "13m 51s",
       "isStorm": true,
       "isHard": false
     },
     {
       "id": "661777b20d9cb8c8b5302676",
       "activation": "2024-04-11T06:20:01.829Z",
-      "startString": "-23m 58s",
+      "startString": "-1h 16m 8s",
       "expiry": "2024-04-11T07:50:01.829Z",
       "active": true,
       "node": "Brom Cluster (Neptune)",
-      "missionType": "Spy",
+      "missionType": "Espionaje",
       "missionKey": "Spy",
       "enemy": "Corpus",
       "enemyKey": "Corpus",
@@ -2323,18 +2212,18 @@
       "tier": "Neo",
       "tierNum": 3,
       "expired": false,
-      "eta": "1h 6m 1s",
+      "eta": "13m 51s",
       "isStorm": true,
       "isHard": false
     },
     {
       "id": "661777b20d9cb8c8b5302677",
       "activation": "2024-04-11T06:20:01.832Z",
-      "startString": "-23m 58s",
+      "startString": "-1h 16m 8s",
       "expiry": "2024-04-11T07:50:01.832Z",
       "active": true,
       "node": "Seven Sirens (Pluto)",
-      "missionType": "Extermination",
+      "missionType": "Exterminio",
       "missionKey": "Extermination",
       "enemy": "Corpus",
       "enemyKey": "Corpus",
@@ -2342,18 +2231,18 @@
       "tier": "Axi",
       "tierNum": 4,
       "expired": false,
-      "eta": "1h 6m 1s",
+      "eta": "13m 51s",
       "isStorm": true,
       "isHard": false
     },
     {
       "id": "661777b20d9cb8c8b5302678",
       "activation": "2024-04-11T06:20:01.834Z",
-      "startString": "-23m 58s",
+      "startString": "-1h 16m 8s",
       "expiry": "2024-04-11T07:50:01.834Z",
       "active": true,
       "node": "R-9 Cloud (Veil)",
-      "missionType": "Skirmish",
+      "missionType": "Escaramuza",
       "missionKey": "Skirmish",
       "enemy": "Grineer",
       "enemyKey": "Grineer",
@@ -2361,7 +2250,121 @@
       "tier": "Axi",
       "tierNum": 4,
       "expired": false,
-      "eta": "1h 6m 1s",
+      "eta": "13m 51s",
+      "isStorm": true,
+      "isHard": false
+    },
+    {
+      "id": "661785c2dc4e2626385fdd29",
+      "activation": "2024-04-11T07:20:01.821Z",
+      "startString": "-16m 8s",
+      "expiry": "2024-04-11T08:50:01.821Z",
+      "active": true,
+      "node": "Korm's Belt (Earth)",
+      "missionType": "Escaramuza",
+      "missionKey": "Skirmish",
+      "enemy": "Grineer",
+      "enemyKey": "Grineer",
+      "nodeKey": "Korm's Belt (Earth)",
+      "tier": "Lith",
+      "tierNum": 1,
+      "expired": false,
+      "eta": "1h 13m 51s",
+      "isStorm": true,
+      "isHard": false
+    },
+    {
+      "id": "661785c2dc4e2626385fdd2a",
+      "activation": "2024-04-11T07:20:01.825Z",
+      "startString": "-16m 8s",
+      "expiry": "2024-04-11T08:50:01.825Z",
+      "active": true,
+      "node": "Beacon Shield Ring (Venus)",
+      "missionType": "Volatile",
+      "missionKey": "Volatile",
+      "enemy": "Corpus",
+      "enemyKey": "Corpus",
+      "nodeKey": "Beacon Shield Ring (Venus)",
+      "tier": "Lith",
+      "tierNum": 1,
+      "expired": false,
+      "eta": "1h 13m 51s",
+      "isStorm": true,
+      "isHard": false
+    },
+    {
+      "id": "661785c2dc4e2626385fdd2e",
+      "activation": "2024-04-11T07:20:01.834Z",
+      "startString": "-16m 8s",
+      "expiry": "2024-04-11T08:50:01.834Z",
+      "active": true,
+      "node": "Calabash (Veil)",
+      "missionType": "Exterminio",
+      "missionKey": "Extermination",
+      "enemy": "Corpus",
+      "enemyKey": "Corpus",
+      "nodeKey": "Calabash (Veil)",
+      "tier": "Axi",
+      "tierNum": 4,
+      "expired": false,
+      "eta": "1h 13m 51s",
+      "isStorm": true,
+      "isHard": false
+    },
+    {
+      "id": "661785c2dc4e2626385fdd2b",
+      "activation": "2024-04-11T07:20:01.827Z",
+      "startString": "-16m 8s",
+      "expiry": "2024-04-11T08:50:01.827Z",
+      "active": true,
+      "node": "Mordo Cluster (Saturn)",
+      "missionType": "Escaramuza",
+      "missionKey": "Skirmish",
+      "enemy": "Grineer",
+      "enemyKey": "Grineer",
+      "nodeKey": "Mordo Cluster (Saturn)",
+      "tier": "Meso",
+      "tierNum": 2,
+      "expired": false,
+      "eta": "1h 13m 51s",
+      "isStorm": true,
+      "isHard": false
+    },
+    {
+      "id": "661785c2dc4e2626385fdd2c",
+      "activation": "2024-04-11T07:20:01.829Z",
+      "startString": "-16m 8s",
+      "expiry": "2024-04-11T08:50:01.829Z",
+      "active": true,
+      "node": "Sovereign Grasp (Neptune)",
+      "missionType": "Volatile",
+      "missionKey": "Volatile",
+      "enemy": "Corpus",
+      "enemyKey": "Corpus",
+      "nodeKey": "Sovereign Grasp (Neptune)",
+      "tier": "Neo",
+      "tierNum": 3,
+      "expired": false,
+      "eta": "1h 13m 51s",
+      "isStorm": true,
+      "isHard": false
+    },
+    {
+      "id": "661785c2dc4e2626385fdd2d",
+      "activation": "2024-04-11T07:20:01.832Z",
+      "startString": "-16m 8s",
+      "expiry": "2024-04-11T08:50:01.832Z",
+      "active": true,
+      "node": "Fenton's Field (Pluto)",
+      "missionType": "Supervivencia",
+      "missionKey": "Survival",
+      "enemy": "Corpus",
+      "enemyKey": "Corpus",
+      "nodeKey": "Fenton's Field (Pluto)",
+      "tier": "Axi",
+      "tierNum": 4,
+      "expired": false,
+      "eta": "1h 13m 51s",
       "isStorm": true,
       "isHard": false
     }
@@ -2378,7 +2381,7 @@
       "isShownInMarket": true,
       "id": "AOTZSupporterPackB1735750800000",
       "expired": false,
-      "eta": "265d 10h 15m 59s"
+      "eta": "265d 9h 23m 49s"
     },
     {
       "item": "Emergence Pack",
@@ -2390,7 +2393,7 @@
       "isShownInMarket": true,
       "id": "AOTZSupporterPackA1735750800000",
       "expired": false,
-      "eta": "265d 10h 15m 59s"
+      "eta": "265d 9h 23m 49s"
     },
     {
       "item": "Ten Year Anniversary Community Art Pack",
@@ -2401,7 +2404,7 @@
       "isShownInMarket": true,
       "id": "TenYearAnniversaryCommunityArtPack1719838800000",
       "expired": false,
-      "eta": "81d 6h 15m 59s"
+      "eta": "81d 5h 23m 49s"
     },
     {
       "item": "Sanctum Pack",
@@ -2413,7 +2416,7 @@
       "isShownInMarket": true,
       "id": "SanctumPack1893517200000",
       "expired": false,
-      "eta": "2091d 10h 15m 59s"
+      "eta": "2091d 9h 23m 49s"
     },
     {
       "item": "Veilbreaker Warrior Pack",
@@ -2425,7 +2428,7 @@
       "isShownInMarket": true,
       "id": "VeilbreakerSupporterPack1895849220000",
       "expired": false,
-      "eta": "2118d 10h 2m 59s"
+      "eta": "2118d 9h 10m 49s"
     },
     {
       "item": "Heirloom Pack C",
@@ -2437,7 +2440,7 @@
       "isShownInMarket": true,
       "id": "HeirloomPackC1735723800000",
       "expired": false,
-      "eta": "265d 2h 45m 59s"
+      "eta": "265d 1h 53m 49s"
     },
     {
       "item": "Heirloom Pack B",
@@ -2449,7 +2452,7 @@
       "isShownInMarket": true,
       "id": "HeirloomPackB1735723860000",
       "expired": false,
-      "eta": "265d 2h 46m 59s"
+      "eta": "265d 1h 54m 49s"
     },
     {
       "item": "Heirloom Pack A",
@@ -2461,7 +2464,7 @@
       "isShownInMarket": true,
       "id": "HeirloomPackA1735723920000",
       "expired": false,
-      "eta": "265d 2h 47m 59s"
+      "eta": "265d 1h 55m 49s"
     },
     {
       "item": "Chroma L N Y Skin",
@@ -2473,7 +2476,7 @@
       "isShownInMarket": true,
       "id": "ChromaLNYSkin1895587200000",
       "expired": false,
-      "eta": "2115d 9h 15m 59s"
+      "eta": "2115d 8h 23m 49s"
     },
     {
       "item": "A O T Z Market Bundle",
@@ -2485,7 +2488,7 @@
       "isShownInMarket": true,
       "id": "AOTZMarketBundle1893510000000",
       "expired": false,
-      "eta": "2091d 8h 15m 59s"
+      "eta": "2091d 7h 23m 49s"
     },
     {
       "item": "Weapon Starter Pack",
@@ -2497,7 +2500,7 @@
       "isShownInMarket": true,
       "id": "WeaponStarterPack1767268740000",
       "expired": false,
-      "eta": "630d 5h 14m 59s"
+      "eta": "630d 4h 22m 49s"
     },
     {
       "item": "H O D Market Bundle",
@@ -2509,7 +2512,7 @@
       "isShownInMarket": true,
       "id": "HODMarketBundle1893510000000",
       "expired": false,
-      "eta": "2091d 8h 15m 59s"
+      "eta": "2091d 7h 23m 49s"
     },
     {
       "item": "T N W Market Bundle",
@@ -2521,7 +2524,7 @@
       "isShownInMarket": true,
       "id": "TNWMarketBundle1893510000000",
       "expired": false,
-      "eta": "2091d 8h 15m 59s"
+      "eta": "2091d 7h 23m 49s"
     },
     {
       "item": "Liset Prop Cleaning Drone Infested",
@@ -2533,7 +2536,7 @@
       "isShownInMarket": true,
       "id": "LisetPropCleaningDroneInfested1861962660000",
       "expired": false,
-      "eta": "1726d 5h 6m 59s"
+      "eta": "1726d 4h 14m 49s"
     },
     {
       "item": "Tn Deimos Supporter Armour Bundle",
@@ -2545,7 +2548,7 @@
       "isShownInMarket": true,
       "id": "TnDeimosSupporterArmourBundle1893510000000",
       "expired": false,
-      "eta": "2091d 8h 15m 59s"
+      "eta": "2091d 7h 23m 49s"
     },
     {
       "item": "Initiate I I I P C Pack",
@@ -2557,7 +2560,7 @@
       "isShownInMarket": true,
       "id": "InitiateIIIPCPack1893497220000",
       "expired": false,
-      "eta": "2091d 4h 42m 59s"
+      "eta": "2091d 3h 50m 49s"
     },
     {
       "item": "Power Pack",
@@ -2569,7 +2572,7 @@
       "isShownInMarket": true,
       "id": "PowerPack1893517200000",
       "expired": false,
-      "eta": "2091d 10h 15m 59s"
+      "eta": "2091d 9h 23m 49s"
     },
     {
       "item": "Avatar Image Zariman Supporter Pack Glyph",
@@ -2581,7 +2584,7 @@
       "isShownInMarket": true,
       "id": "AvatarImageZarimanSupporterPackGlyph1861963200000",
       "expired": false,
-      "eta": "1726d 5h 15m 59s"
+      "eta": "1726d 4h 23m 49s"
     },
     {
       "item": "Colour Picker Narmer",
@@ -2593,7 +2596,7 @@
       "isShownInMarket": true,
       "id": "ColourPickerNarmer1861963200000",
       "expired": false,
-      "eta": "1726d 5h 15m 59s"
+      "eta": "1726d 4h 23m 49s"
     },
     {
       "item": "Deimos Supporter Pistol Skin",
@@ -2605,7 +2608,7 @@
       "isShownInMarket": true,
       "id": "DeimosSupporterPistolSkin1861963200000",
       "expired": false,
-      "eta": "1726d 5h 15m 59s"
+      "eta": "1726d 4h 23m 49s"
     },
     {
       "item": "Zariman Supporter Pack Sigil",
@@ -2617,7 +2620,7 @@
       "isShownInMarket": true,
       "id": "ZarimanSupporterPackSigil1861963200000",
       "expired": false,
-      "eta": "1726d 5h 15m 59s"
+      "eta": "1726d 4h 23m 49s"
     },
     {
       "item": "Redeemer T N W Narmer Skin",
@@ -2629,7 +2632,7 @@
       "isShownInMarket": true,
       "id": "RedeemerTNWNarmerSkin1861966680000",
       "expired": false,
-      "eta": "1726d 6h 13m 59s"
+      "eta": "1726d 5h 21m 49s"
     },
     {
       "item": "Tn Deimos Supporter Armor A",
@@ -2641,7 +2644,7 @@
       "isShownInMarket": true,
       "id": "TnDeimosSupporterArmorA1861966800000",
       "expired": false,
-      "eta": "1726d 6h 15m 59s"
+      "eta": "1726d 5h 23m 49s"
     },
     {
       "item": "Deimos Revolver Glyph",
@@ -2653,7 +2656,7 @@
       "isShownInMarket": true,
       "id": "DeimosRevolverGlyph1861966620000",
       "expired": false,
-      "eta": "1726d 6h 12m 59s"
+      "eta": "1726d 5h 20m 49s"
     },
     {
       "item": "New War2021 Sigil",
@@ -2665,7 +2668,7 @@
       "isShownInMarket": true,
       "id": "NewWar2021Sigil1861966740000",
       "expired": false,
-      "eta": "1726d 6h 14m 59s"
+      "eta": "1726d 5h 22m 49s"
     },
     {
       "item": "Deimos Supporter Shotgun Skin",
@@ -2677,7 +2680,7 @@
       "isShownInMarket": true,
       "id": "DeimosSupporterShotgunSkin1861966620000",
       "expired": false,
-      "eta": "1726d 6h 12m 59s"
+      "eta": "1726d 5h 20m 49s"
     },
     {
       "item": "Deimos Supporter Whip Skin",
@@ -2689,7 +2692,7 @@
       "isShownInMarket": true,
       "id": "DeimosSupporterWhipSkin1861963200000",
       "expired": false,
-      "eta": "1726d 5h 15m 59s"
+      "eta": "1726d 4h 23m 49s"
     },
     {
       "item": "New War2021 Glyph",
@@ -2701,7 +2704,7 @@
       "isShownInMarket": true,
       "id": "NewWar2021Glyph1861966560000",
       "expired": false,
-      "eta": "1726d 6h 11m 59s"
+      "eta": "1726d 5h 19m 49s"
     },
     {
       "item": "Deimos Ephemera",
@@ -2713,7 +2716,7 @@
       "isShownInMarket": true,
       "id": "DeimosEphemera1861966800000",
       "expired": false,
-      "eta": "1726d 6h 15m 59s"
+      "eta": "1726d 5h 23m 49s"
     },
     {
       "item": "Tn Deimos Supporter Armor C",
@@ -2725,7 +2728,7 @@
       "isShownInMarket": true,
       "id": "TnDeimosSupporterArmorC1861966860000",
       "expired": false,
-      "eta": "1726d 6h 16m 59s"
+      "eta": "1726d 5h 24m 49s"
     },
     {
       "item": "Deimos Supporter Fire Fly Blue Scarf",
@@ -2737,7 +2740,7 @@
       "isShownInMarket": true,
       "id": "DeimosSupporterFireFlyBlueScarf1861966560000",
       "expired": false,
-      "eta": "1726d 6h 11m 59s"
+      "eta": "1726d 5h 19m 49s"
     },
     {
       "item": "Tn Deimos Supporter Armor L",
@@ -2749,7 +2752,7 @@
       "isShownInMarket": true,
       "id": "TnDeimosSupporterArmorL1861966920000",
       "expired": false,
-      "eta": "1726d 6h 17m 59s"
+      "eta": "1726d 5h 25m 49s"
     },
     {
       "item": "Dante Chronicles Pack",
@@ -2761,7 +2764,7 @@
       "isShownInMarket": true,
       "id": "DanteChroniclesPack1893496500000",
       "expired": false,
-      "eta": "2091d 4h 30m 59s"
+      "eta": "2091d 3h 38m 49s"
     },
     {
       "item": "Easter",
@@ -2773,7 +2776,7 @@
       "isShownInMarket": true,
       "id": "ColourPickerEasterItemA1713204000000",
       "expired": false,
-      "eta": "4d 11h 15m 59s"
+      "eta": "4d 10h 23m 49s"
     },
     {
       "item": "Lepus Headgear",
@@ -2785,7 +2788,7 @@
       "isShownInMarket": true,
       "id": "BunnyEars1713204000000",
       "expired": false,
-      "eta": "4d 11h 15m 59s"
+      "eta": "4d 10h 23m 49s"
     },
     {
       "item": "Spring Step Ephemera",
@@ -2797,7 +2800,7 @@
       "isShownInMarket": true,
       "id": "FootstepsEasterEggs1713204000000",
       "expired": false,
-      "eta": "4d 11h 15m 59s"
+      "eta": "4d 10h 23m 49s"
     },
     {
       "item": "Premium Bunny Ears",
@@ -2809,17 +2812,17 @@
       "isShownInMarket": true,
       "id": "PremiumBunnyEars1713204000000",
       "expired": false,
-      "eta": "4d 11h 15m 59s"
+      "eta": "4d 10h 23m 49s"
     }
   ],
   "invasions": [
     {
       "id": "66141f0dc6744e7b2c0e04ce",
       "activation": "2024-04-08T17:01:38.281Z",
-      "startString": "-2d 13h 42m 22s",
-      "node": "Monolith (Phobos)",
+      "startString": "-2d 14h 34m 31s",
+      "node": "Monolito (Fobos)",
       "nodeKey": "Monolith (Phobos)",
-      "desc": "Grineer Offensive",
+      "desc": "Ofensiva grineer",
       "attackingFaction": "Grineer",
       "attacker": {
         "reward": {
@@ -2860,11 +2863,11 @@
         "factionKey": "Corpus"
       },
       "vsInfestation": false,
-      "count": 9348,
+      "count": 9883,
       "requiredRuns": 46000,
-      "completion": 60.16086956521739,
+      "completion": 60.74239130434782,
       "completed": false,
-      "eta": "10d 1h 56m 24s",
+      "eta": "9d 12h 40m 46s",
       "rewardTypes": [
         "other",
         "vandal"
@@ -2873,13 +2876,13 @@
     {
       "id": "6615bf12fbc31b1714c452d0",
       "activation": "2024-04-09T22:20:02.050Z",
-      "startString": "-1d 8h 23m 58s",
-      "node": "Psamathe (Neptune)",
+      "startString": "-1d 9h 16m 8s",
+      "node": "Psámate (Neptuno)",
       "nodeKey": "Psamathe (Neptune)",
-      "desc": "Phorid Manifestation",
-      "attackingFaction": "Infested",
+      "desc": "Manifestación de Phorid",
+      "attackingFaction": "Infestados",
       "attacker": {
-        "faction": "Infested",
+        "faction": "Infestados",
         "factionKey": "Infested"
       },
       "defender": {
@@ -2888,13 +2891,13 @@
           "countedItems": [
             {
               "count": 1,
-              "type": "Mutalist Alad V Nav Coordinate",
+              "type": "Coordenadas de navegación de Alad V mutalítico",
               "key": "Mutalist Alad V Nav Coordinate"
             }
           ],
           "credits": 0,
-          "asString": "Mutalist Alad V Nav Coordinate",
-          "itemString": "Mutalist Alad V Nav Coordinate",
+          "asString": "Coordenadas de navegación de Alad V mutalítico",
+          "itemString": "Coordenadas de navegación de Alad V mutalítico",
           "thumbnail": "https://cdn.warframestat.us/img/mutalist-alad-v-nav-coordinate.png",
           "color": 158519
         },
@@ -2902,11 +2905,11 @@
         "factionKey": "Corpus"
       },
       "vsInfestation": true,
-      "count": -29438,
+      "count": -30078,
       "requiredRuns": 30000,
-      "completion": 1.873333333333338,
-      "completed": false,
-      "eta": "37m 6s",
+      "completion": -0.25999999999999357,
+      "completed": true,
+      "eta": "-5m 10s",
       "rewardTypes": [
         "mutalist"
       ]
@@ -2914,10 +2917,10 @@
     {
       "id": "66167a9133bf376125495135",
       "activation": "2024-04-11T02:50:07.683Z",
-      "startString": "-3h 53m 53s",
+      "startString": "-4h 46m 2s",
       "node": "Titan (Saturn)",
       "nodeKey": "Titan (Saturn)",
-      "desc": "Corpus Siege",
+      "desc": "Asedio Corpus",
       "attackingFaction": "Corpus",
       "attacker": {
         "reward": {
@@ -2925,13 +2928,13 @@
           "countedItems": [
             {
               "count": 3,
-              "type": "Fieldron",
+              "type": "Fieldrón",
               "key": "Fieldron"
             }
           ],
           "credits": 0,
-          "asString": "3 Fieldron",
-          "itemString": "3 Fieldron",
+          "asString": "3 Fieldrón",
+          "itemString": "3 Fieldrón",
           "thumbnail": "https://cdn.warframestat.us/img/fieldron.png",
           "color": 5068118
         },
@@ -2944,13 +2947,13 @@
           "countedItems": [
             {
               "count": 3,
-              "type": "Detonite Injector",
+              "type": "Inyector detonite",
               "key": "Detonite Injector"
             }
           ],
           "credits": 0,
-          "asString": "3 Detonite Injector",
-          "itemString": "3 Detonite Injector",
+          "asString": "3 Inyector detonite",
+          "itemString": "3 Inyector detonite",
           "thumbnail": "https://cdn.warframestat.us/img/detonite-injector.png",
           "color": 5068118
         },
@@ -2958,11 +2961,11 @@
         "factionKey": "Grineer"
       },
       "vsInfestation": false,
-      "count": 2093,
+      "count": 2702,
       "requiredRuns": 50000,
-      "completion": 52.093,
+      "completion": 52.702000000000005,
       "completed": false,
-      "eta": "3d 17h 13m 25s",
+      "eta": "3d 11h 27m 5s",
       "rewardTypes": [
         "fieldron",
         "detonite"
@@ -2971,13 +2974,13 @@
     {
       "id": "6616a8452c79e4ef1f9dad51",
       "activation": "2024-04-10T16:02:15.902Z",
-      "startString": "-14h 41m 44s",
+      "startString": "-15h 33m 54s",
       "node": "Cinxia (Ceres)",
       "nodeKey": "Cinxia (Ceres)",
       "desc": "Infested Outbreak",
-      "attackingFaction": "Infested",
+      "attackingFaction": "Infestados",
       "attacker": {
-        "faction": "Infested",
+        "faction": "Infestados",
         "factionKey": "Infested"
       },
       "defender": {
@@ -2986,13 +2989,13 @@
           "countedItems": [
             {
               "count": 3,
-              "type": "Detonite Injector",
+              "type": "Inyector detonite",
               "key": "Detonite Injector"
             }
           ],
           "credits": 0,
-          "asString": "3 Detonite Injector",
-          "itemString": "3 Detonite Injector",
+          "asString": "3 Inyector detonite",
+          "itemString": "3 Inyector detonite",
           "thumbnail": "https://cdn.warframestat.us/img/detonite-injector.png",
           "color": 5068118
         },
@@ -3004,48 +3007,7 @@
       "requiredRuns": 40000,
       "completion": -1.0475000000000012,
       "completed": true,
-      "eta": "-9m 8s",
-      "rewardTypes": [
-        "detonite"
-      ]
-    },
-    {
-      "id": "6616e085e77b6a39197e82c3",
-      "activation": "2024-04-10T18:55:01.731Z",
-      "startString": "-11h 48m 59s",
-      "node": "Nuovo (Ceres)",
-      "nodeKey": "Nuovo (Ceres)",
-      "desc": "Infested Outbreak",
-      "attackingFaction": "Infested",
-      "attacker": {
-        "faction": "Infested",
-        "factionKey": "Infested"
-      },
-      "defender": {
-        "reward": {
-          "items": [],
-          "countedItems": [
-            {
-              "count": 3,
-              "type": "Detonite Injector",
-              "key": "Detonite Injector"
-            }
-          ],
-          "credits": 0,
-          "asString": "3 Detonite Injector",
-          "itemString": "3 Detonite Injector",
-          "thumbnail": "https://cdn.warframestat.us/img/detonite-injector.png",
-          "color": 5068118
-        },
-        "faction": "Grineer",
-        "factionKey": "Grineer"
-      },
-      "vsInfestation": true,
-      "count": -32387,
-      "requiredRuns": 32000,
-      "completion": -1.2093750000000014,
-      "completed": true,
-      "eta": "-8m 28s",
+      "eta": "-9m 40s",
       "rewardTypes": [
         "detonite"
       ]
@@ -3053,13 +3015,13 @@
     {
       "id": "6616e085e77b6a39197e82c4",
       "activation": "2024-04-10T18:55:01.731Z",
-      "startString": "-11h 48m 59s",
+      "startString": "-12h 41m 8s",
       "node": "Kiste (Ceres)",
       "nodeKey": "Kiste (Ceres)",
       "desc": "Infested Outbreak",
-      "attackingFaction": "Infested",
+      "attackingFaction": "Infestados",
       "attacker": {
-        "faction": "Infested",
+        "faction": "Infestados",
         "factionKey": "Infested"
       },
       "defender": {
@@ -3068,13 +3030,13 @@
           "countedItems": [
             {
               "count": 3,
-              "type": "Detonite Injector",
+              "type": "Inyector detonite",
               "key": "Detonite Injector"
             }
           ],
           "credits": 0,
-          "asString": "3 Detonite Injector",
-          "itemString": "3 Detonite Injector",
+          "asString": "3 Inyector detonite",
+          "itemString": "3 Inyector detonite",
           "thumbnail": "https://cdn.warframestat.us/img/detonite-injector.png",
           "color": 5068118
         },
@@ -3086,7 +3048,48 @@
       "requiredRuns": 46000,
       "completion": -0.40869565217391823,
       "completed": true,
-      "eta": "-2m 53s",
+      "eta": "-3m 5s",
+      "rewardTypes": [
+        "detonite"
+      ]
+    },
+    {
+      "id": "6616e085e77b6a39197e82c3",
+      "activation": "2024-04-10T18:55:01.731Z",
+      "startString": "-12h 41m 8s",
+      "node": "Nuovo (Ceres)",
+      "nodeKey": "Nuovo (Ceres)",
+      "desc": "Infested Outbreak",
+      "attackingFaction": "Infestados",
+      "attacker": {
+        "faction": "Infestados",
+        "factionKey": "Infested"
+      },
+      "defender": {
+        "reward": {
+          "items": [],
+          "countedItems": [
+            {
+              "count": 3,
+              "type": "Inyector detonite",
+              "key": "Detonite Injector"
+            }
+          ],
+          "credits": 0,
+          "asString": "3 Inyector detonite",
+          "itemString": "3 Inyector detonite",
+          "thumbnail": "https://cdn.warframestat.us/img/detonite-injector.png",
+          "color": 5068118
+        },
+        "faction": "Grineer",
+        "factionKey": "Grineer"
+      },
+      "vsInfestation": true,
+      "count": -32387,
+      "requiredRuns": 32000,
+      "completion": -1.2093750000000014,
+      "completed": true,
+      "eta": "-9m 5s",
       "rewardTypes": [
         "detonite"
       ]
@@ -3094,13 +3097,13 @@
     {
       "id": "6616fb7ac24aec552b2cd7d2",
       "activation": "2024-04-10T20:50:02.030Z",
-      "startString": "-9h 53m 58s",
+      "startString": "-10h 46m 8s",
       "node": "Thon (Ceres)",
       "nodeKey": "Thon (Ceres)",
       "desc": "Infested Outbreak",
-      "attackingFaction": "Infested",
+      "attackingFaction": "Infestados",
       "attacker": {
-        "faction": "Infested",
+        "faction": "Infestados",
         "factionKey": "Infested"
       },
       "defender": {
@@ -3109,13 +3112,13 @@
           "countedItems": [
             {
               "count": 1,
-              "type": "Mutagen Mass",
+              "type": "Masa mutágena",
               "key": "Mutagen Mass"
             }
           ],
           "credits": 0,
-          "asString": "Mutagen Mass",
-          "itemString": "Mutagen Mass",
+          "asString": "Masa mutágena",
+          "itemString": "Masa mutágena",
           "thumbnail": "https://cdn.warframestat.us/img/mutagen-mass.png",
           "color": 5068118
         },
@@ -3127,7 +3130,7 @@
       "requiredRuns": 35000,
       "completion": -0.2771428571428647,
       "completed": true,
-      "eta": "-1m 38s",
+      "eta": "-1m 47s",
       "rewardTypes": [
         "mutagen"
       ]
@@ -3135,13 +3138,13 @@
     {
       "id": "66170ab5a34a132711529cb3",
       "activation": "2024-04-10T21:55:01.452Z",
-      "startString": "-8h 48m 59s",
+      "startString": "-9h 41m 8s",
       "node": "Exta (Ceres)",
       "nodeKey": "Exta (Ceres)",
-      "desc": "Phorid Manifestation",
-      "attackingFaction": "Infested",
+      "desc": "Manifestación de Phorid",
+      "attackingFaction": "Infestados",
       "attacker": {
-        "faction": "Infested",
+        "faction": "Infestados",
         "factionKey": "Infested"
       },
       "defender": {
@@ -3150,13 +3153,13 @@
           "countedItems": [
             {
               "count": 3,
-              "type": "Detonite Injector",
+              "type": "Inyector detonite",
               "key": "Detonite Injector"
             }
           ],
           "credits": 0,
-          "asString": "3 Detonite Injector",
-          "itemString": "3 Detonite Injector",
+          "asString": "3 Inyector detonite",
+          "itemString": "3 Inyector detonite",
           "thumbnail": "https://cdn.warframestat.us/img/detonite-injector.png",
           "color": 5068118
         },
@@ -3164,11 +3167,11 @@
         "factionKey": "Grineer"
       },
       "vsInfestation": true,
-      "count": -11592,
+      "count": -12723,
       "requiredRuns": 30000,
-      "completion": 61.35999999999999,
+      "completion": 57.59000000000001,
       "completed": false,
-      "eta": "14h 1s",
+      "eta": "13h 9m 9s",
       "rewardTypes": [
         "detonite"
       ]
@@ -3179,14 +3182,14 @@
     {
       "id": "5d1e07a0a38e4a4fdd7cefca",
       "activation": "2024-04-19T13:00:00.000Z",
-      "startString": "8d 6h 15m 59s",
+      "startString": "8d 5h 23m 49s",
       "expiry": "2024-04-21T13:00:00.000Z",
       "active": false,
       "character": "Baro Ki'Teer",
-      "location": "Larunda Relay (Mercury)",
+      "location": "Repetidor Larunda (Mercurio)",
       "inventory": [],
       "psId": "5d1e07a0a38e4a4fdd7cefca0",
-      "endString": "10d 6h 15m 59s",
+      "endString": "10d 5h 23m 49s",
       "initialStart": "1970-01-01T00:00:00.000Z",
       "schedule": []
     }
@@ -3194,14 +3197,14 @@
   "voidTrader": {
     "id": "5d1e07a0a38e4a4fdd7cefca",
     "activation": "2024-04-19T13:00:00.000Z",
-    "startString": "8d 6h 15m 59s",
+    "startString": "8d 5h 23m 49s",
     "expiry": "2024-04-21T13:00:00.000Z",
     "active": false,
     "character": "Baro Ki'Teer",
-    "location": "Larunda Relay (Mercury)",
+    "location": "Repetidor Larunda (Mercurio)",
     "inventory": [],
     "psId": "5d1e07a0a38e4a4fdd7cefca0",
-    "endString": "10d 6h 15m 59s",
+    "endString": "10d 5h 23m 49s",
     "initialStart": "1970-01-01T00:00:00.000Z",
     "schedule": []
   },
@@ -3214,9 +3217,9 @@
       "originalPrice": 75,
       "salePrice": 52,
       "total": 350,
-      "sold": 3,
+      "sold": 5,
       "id": "Dagger1712905200000",
-      "eta": "1d 15m 59s",
+      "eta": "23h 23m 49s",
       "discount": 30
     }
   ],
@@ -3231,34 +3234,34 @@
       "expiry": "2024-04-12T21:10:01.323Z",
       "activation": "2024-04-05T21:10:01.323Z",
       "amount": 6,
-      "mode": "Any Mode",
+      "mode": "Cualquier modo",
       "category": "week",
-      "eta": "1d 14h 26m 0s",
+      "eta": "1d 13h 33m 51s",
       "expired": false,
       "daily": false,
       "rootChallenge": false,
-      "endString": "1d 14h 26m 0s",
+      "endString": "1d 13h 33m 51s",
       "description": "Win 6 matches of any Game Type",
       "title": "Match Won",
       "standing": 0,
-      "asString": "Win 6 matches of any Game Type on Any Mode 6 times in a week"
+      "asString": "Win 6 matches of any Game Type on Cualquier modo 6 times in a week"
     },
     {
       "id": "661068a9d843605d047732d6",
       "expiry": "2024-04-12T21:10:01.323Z",
       "activation": "2024-04-05T21:10:01.323Z",
       "amount": 20,
-      "mode": "Any Mode",
+      "mode": "Cualquier modo",
       "category": "week",
-      "eta": "1d 14h 26m 0s",
+      "eta": "1d 13h 33m 51s",
       "expired": false,
       "daily": false,
       "rootChallenge": false,
-      "endString": "1d 14h 26m 0s",
+      "endString": "1d 13h 33m 51s",
       "description": "Complete 20 matches of any Game Type",
       "title": "Match Complete",
       "standing": 0,
-      "asString": "Complete 20 matches of any Game Type on Any Mode 20 times in a week"
+      "asString": "Complete 20 matches of any Game Type on Cualquier modo 20 times in a week"
     },
     {
       "id": "661068a9d843605d047732d8",
@@ -3267,11 +3270,11 @@
       "amount": 0,
       "mode": "None",
       "category": "week_root",
-      "eta": "1d 14h 26m 0s",
+      "eta": "1d 13h 33m 51s",
       "expired": false,
       "daily": false,
       "rootChallenge": true,
-      "endString": "1d 14h 26m 0s",
+      "endString": "1d 13h 33m 51s",
       "description": "Weekly Mission",
       "title": "Weekly Mission",
       "standing": 50000,
@@ -3282,119 +3285,119 @@
       "expiry": "2024-04-12T21:10:01.323Z",
       "activation": "2024-04-05T21:10:01.323Z",
       "amount": 10,
-      "mode": "Any Mode",
+      "mode": "Cualquier modo",
       "category": "week",
-      "eta": "1d 14h 26m 0s",
+      "eta": "1d 13h 33m 51s",
       "expired": false,
       "daily": false,
       "rootChallenge": false,
-      "endString": "1d 14h 26m 0s",
+      "endString": "1d 13h 33m 51s",
       "description": "Complete 10 Daily Challenges",
       "title": "Conditioning",
       "standing": 0,
-      "asString": "Complete 10 Daily Challenges on Any Mode 10 times in a week"
+      "asString": "Complete 10 Daily Challenges on Cualquier modo 10 times in a week"
     },
     {
       "id": "661771d6b6c704f5099095a7",
       "expiry": "2024-04-12T05:15:02.055Z",
       "activation": "2024-04-11T05:15:02.055Z",
       "amount": 4,
-      "mode": "Capture the Cephalon",
+      "mode": "Captura el céfalon",
       "category": "day",
-      "eta": "22h 31m 1s",
+      "eta": "21h 38m 51s",
       "expired": false,
       "daily": true,
       "rootChallenge": false,
-      "endString": "22h 31m 1s",
+      "endString": "21h 38m 51s",
       "description": "Capture 4 Cephalons",
       "title": "Bandit",
       "standing": 1500,
-      "asString": "Capture 4 Cephalons on Capture the Cephalon 4 times in a day"
+      "asString": "Capture 4 Cephalons on Captura el céfalon 4 times in a day"
     },
     {
       "id": "661771d6b6c704f5099095aa",
       "expiry": "2024-04-12T05:15:02.055Z",
       "activation": "2024-04-11T05:15:02.055Z",
       "amount": 3,
-      "mode": "Annihilation",
+      "mode": "Aniquilación",
       "category": "day",
-      "eta": "22h 31m 1s",
+      "eta": "21h 38m 51s",
       "expired": false,
       "daily": true,
       "rootChallenge": false,
-      "endString": "22h 31m 1s",
+      "endString": "21h 38m 51s",
       "description": "Kill 3 enemies with your Secondary Weapon in a match",
       "title": "Focused Secondary Target",
       "standing": 3000,
-      "asString": "Kill 3 enemies with your Secondary Weapon in a match on Annihilation 3 times in a day"
+      "asString": "Kill 3 enemies with your Secondary Weapon in a match on Aniquilación 3 times in a day"
     },
     {
       "id": "661771d6b6c704f5099095a6",
       "expiry": "2024-04-12T05:15:02.055Z",
       "activation": "2024-04-11T05:15:02.055Z",
       "amount": 1,
-      "mode": "Capture the Cephalon",
+      "mode": "Captura el céfalon",
       "category": "day",
-      "eta": "22h 31m 1s",
+      "eta": "21h 38m 51s",
       "expired": false,
       "daily": true,
       "rootChallenge": false,
-      "endString": "22h 31m 1s",
+      "endString": "21h 38m 51s",
       "description": "Complete 1 match",
       "title": "See it Through",
       "standing": 500,
-      "asString": "Complete 1 match on Capture the Cephalon 1 times in a day"
+      "asString": "Complete 1 match on Captura el céfalon 1 times in a day"
     },
     {
       "id": "661771d6b6c704f5099095a8",
       "expiry": "2024-04-12T05:15:02.055Z",
       "activation": "2024-04-11T05:15:02.055Z",
       "amount": 1,
-      "mode": "Team Annihilation",
+      "mode": "Aniquilación por equipos",
       "category": "day",
-      "eta": "22h 31m 1s",
+      "eta": "21h 38m 51s",
       "expired": false,
       "daily": true,
       "rootChallenge": false,
-      "endString": "22h 31m 1s",
+      "endString": "21h 38m 51s",
       "description": "Get 1 Headshot kill",
       "title": "Shootist",
       "standing": 500,
-      "asString": "Get 1 Headshot kill on Team Annihilation 1 times in a day"
+      "asString": "Get 1 Headshot kill on Aniquilación por equipos 1 times in a day"
     },
     {
       "id": "661771d6b6c704f5099095ab",
       "expiry": "2024-04-12T05:15:02.055Z",
       "activation": "2024-04-11T05:15:02.055Z",
       "amount": 1,
-      "mode": "Annihilation",
+      "mode": "Aniquilación",
       "category": "day",
-      "eta": "22h 31m 1s",
+      "eta": "21h 38m 51s",
       "expired": false,
       "daily": true,
       "rootChallenge": false,
-      "endString": "22h 31m 1s",
+      "endString": "21h 38m 51s",
       "description": "Kill 1 enemy with your Primary Weapon",
       "title": "Primary Target",
       "standing": 500,
-      "asString": "Kill 1 enemy with your Primary Weapon on Annihilation 1 times in a day"
+      "asString": "Kill 1 enemy with your Primary Weapon on Aniquilación 1 times in a day"
     },
     {
       "id": "661771d6b6c704f5099095a9",
       "expiry": "2024-04-12T05:15:02.055Z",
       "activation": "2024-04-11T05:15:02.055Z",
       "amount": 3,
-      "mode": "Team Annihilation",
+      "mode": "Aniquilación por equipos",
       "category": "day",
-      "eta": "22h 31m 1s",
+      "eta": "21h 38m 51s",
       "expired": false,
       "daily": true,
       "rootChallenge": false,
-      "endString": "22h 31m 1s",
+      "endString": "21h 38m 51s",
       "description": "Kill 3 enemies while Airborne in a match",
       "title": "Focused Air Strike",
       "standing": 3000,
-      "asString": "Kill 3 enemies while Airborne in a match on Team Annihilation 3 times in a day"
+      "asString": "Kill 3 enemies while Airborne in a match on Aniquilación por equipos 3 times in a day"
     },
     {
       "id": "661771d6b6c704f5099095ad",
@@ -3403,11 +3406,11 @@
       "amount": 6,
       "mode": "Lunaro",
       "category": "day",
-      "eta": "22h 31m 1s",
+      "eta": "21h 38m 51s",
       "expired": false,
       "daily": true,
       "rootChallenge": false,
-      "endString": "22h 31m 1s",
+      "endString": "21h 38m 51s",
       "description": "Intercept 6 Passes from opponents",
       "title": "Interception!",
       "standing": 3000,
@@ -3420,11 +3423,11 @@
       "amount": 3,
       "mode": "Lunaro",
       "category": "day",
-      "eta": "22h 31m 1s",
+      "eta": "21h 38m 51s",
       "expired": false,
       "daily": true,
       "rootChallenge": false,
-      "endString": "22h 31m 1s",
+      "endString": "21h 38m 51s",
       "description": "Catch 3 Passes from teammates",
       "title": "Heads Up!",
       "standing": 1000,
@@ -3434,59 +3437,59 @@
   "persistentEnemies": [],
   "earthCycle": {
     "id": "earthCycle1712822400000",
-    "expiry": "2024-04-11T08:00:00.791Z",
-    "activation": "2024-04-11T04:00:00.791Z",
+    "expiry": "2024-04-11T08:00:00.108Z",
+    "activation": "2024-04-11T04:00:00.108Z",
     "isDay": false,
     "state": "night",
-    "timeLeft": "1h 16m 0s"
+    "timeLeft": "23m 50s"
   },
   "cetusCycle": {
-    "id": "cetusCycle1712820480000",
-    "expiry": "2024-04-11T07:28:00.000Z",
-    "activation": "2024-04-11T06:38:00.000Z",
-    "isDay": false,
-    "state": "night",
-    "timeLeft": "43m 59s",
+    "id": "cetusCycle1712826480000",
+    "expiry": "2024-04-11T09:08:00.000Z",
+    "activation": "2024-04-11T07:28:00.000Z",
+    "isDay": true,
+    "state": "day",
+    "timeLeft": "1h 31m 50s",
     "isCetus": true,
-    "shortString": "43m to Day"
+    "shortString": "1h 31m to Night"
   },
   "cambionCycle": {
-    "id": "cambionCycle1712820480000",
-    "activation": "2024-04-11T06:38:00.000Z",
-    "expiry": "2024-04-11T07:28:00.000Z",
-    "timeLeft": "43m 59s",
-    "state": "vome",
-    "active": "vome"
+    "id": "cambionCycle1712826480000",
+    "activation": "2024-04-11T07:28:00.000Z",
+    "expiry": "2024-04-11T09:08:00.000Z",
+    "timeLeft": "1h 31m 50s",
+    "state": "fass",
+    "active": "fass"
   },
   "zarimanCycle": {
-    "id": "zarimanCycle1712820540000",
-    "expiry": "2024-04-11T07:29:00.000Z",
-    "activation": "2024-04-11T04:59:00.000Z",
-    "isCorpus": true,
-    "state": "corpus",
-    "timeLeft": "44m 48s",
-    "shortString": "44m to grineer"
+    "id": "zarimanCycle1712829540000",
+    "expiry": "2024-04-11T09:59:00.000Z",
+    "activation": "2024-04-11T07:29:00.000Z",
+    "isCorpus": false,
+    "state": "grineer",
+    "timeLeft": "2h 22m 37s",
+    "shortString": "2h 22m to corpus"
   },
   "weeklyChallenges": [],
   "constructionProgress": {
-    "id": "171281784079214.954528401134553",
-    "fomorianProgress": "14.95",
-    "razorbackProgress": "39.39",
+    "id": "171282097011614.978212944208684",
+    "fomorianProgress": "14.98",
+    "razorbackProgress": "39.41",
     "unknownProgress": "0.00"
   },
   "vallisCycle": {
-    "id": "vallisCycle1712817180000",
-    "expiry": "2024-04-11T06:53:48.000Z",
+    "id": "vallisCycle1712820420000",
+    "expiry": "2024-04-11T07:47:08.000Z",
     "isWarm": false,
     "state": "cold",
-    "activation": "2024-04-11T06:33:00.000Z",
-    "timeLeft": "9m 47s",
-    "shortString": "9m to Warm"
+    "activation": "2024-04-11T07:27:00.000Z",
+    "timeLeft": "10m 57s",
+    "shortString": "10m to Warm"
   },
   "nightwave": {
     "id": "nightwave1719187200000",
     "activation": "2023-11-29T19:00:00.000Z",
-    "startString": "-133d 11h 44m 0s",
+    "startString": "-133d 12h 36m 10s",
     "expiry": "2024-06-24T00:00:00.000Z",
     "active": true,
     "season": 11,
@@ -3498,7 +3501,7 @@
       {
         "id": "1712880000000seasondailyliquidation",
         "activation": "2024-04-09T00:00:00.000Z",
-        "startString": "-2d 6h 44m 0s",
+        "startString": "-2d 7h 36m 10s",
         "expiry": "2024-04-12T00:00:00.000Z",
         "active": true,
         "isDaily": true,
@@ -3511,7 +3514,7 @@
       {
         "id": "1712966400000seasondailydonateleverian",
         "activation": "2024-04-10T00:00:00.000Z",
-        "startString": "-1d 6h 44m 0s",
+        "startString": "-1d 7h 36m 10s",
         "expiry": "2024-04-13T00:00:00.000Z",
         "active": true,
         "isDaily": true,
@@ -3524,7 +3527,7 @@
       {
         "id": "1713052800000seasondailyyourmove",
         "activation": "2024-04-11T00:00:00.000Z",
-        "startString": "-6h 44m 0s",
+        "startString": "-7h 36m 10s",
         "expiry": "2024-04-14T00:00:00.000Z",
         "active": true,
         "isDaily": true,
@@ -3537,7 +3540,7 @@
       {
         "id": "1713139200000seasonweeklypermanentcompletemissions20",
         "activation": "2024-04-08T00:00:00.000Z",
-        "startString": "-3d 6h 44m 0s",
+        "startString": "-3d 7h 36m 10s",
         "expiry": "2024-04-15T00:00:00.000Z",
         "active": true,
         "isDaily": false,
@@ -3550,7 +3553,7 @@
       {
         "id": "1713139200000seasonweeklypermanentkilleximus20",
         "activation": "2024-04-08T00:00:00.000Z",
-        "startString": "-3d 6h 44m 0s",
+        "startString": "-3d 7h 36m 10s",
         "expiry": "2024-04-15T00:00:00.000Z",
         "active": true,
         "isDaily": false,
@@ -3563,7 +3566,7 @@
       {
         "id": "1713139200000seasonweeklypermanentkillenemies20",
         "activation": "2024-04-08T00:00:00.000Z",
-        "startString": "-3d 6h 44m 0s",
+        "startString": "-3d 7h 36m 10s",
         "expiry": "2024-04-15T00:00:00.000Z",
         "active": true,
         "isDaily": false,
@@ -3576,7 +3579,7 @@
       {
         "id": "1713139200000seasonweeklyminerarevenusresources",
         "activation": "2024-04-08T00:00:00.000Z",
-        "startString": "-3d 6h 44m 0s",
+        "startString": "-3d 7h 36m 10s",
         "expiry": "2024-04-15T00:00:00.000Z",
         "active": true,
         "isDaily": false,
@@ -3589,7 +3592,7 @@
       {
         "id": "1713139200000seasonweeklyfinelytuned",
         "activation": "2024-04-08T00:00:00.000Z",
-        "startString": "-3d 6h 44m 0s",
+        "startString": "-3d 7h 36m 10s",
         "expiry": "2024-04-15T00:00:00.000Z",
         "active": true,
         "isDaily": false,
@@ -3602,7 +3605,7 @@
       {
         "id": "1713139200000seasonweeklyhardkuvasurvivalnocapsules",
         "activation": "2024-04-08T00:00:00.000Z",
-        "startString": "-3d 6h 44m 0s",
+        "startString": "-3d 7h 36m 10s",
         "expiry": "2024-04-15T00:00:00.000Z",
         "active": true,
         "isDaily": false,
@@ -3615,7 +3618,7 @@
       {
         "id": "1713139200000seasonweeklyhardkillthumper",
         "activation": "2024-04-08T00:00:00.000Z",
-        "startString": "-3d 6h 44m 0s",
+        "startString": "-3d 7h 36m 10s",
         "expiry": "2024-04-15T00:00:00.000Z",
         "active": true,
         "isDaily": false,
@@ -3632,16 +3635,16 @@
   },
   "kuva": [],
   "arbitration": {
-    "activation": "2024-04-11T06:05:00.000Z",
-    "expiry": "2024-04-11T07:04:00.000Z",
+    "activation": "2024-04-11T07:05:00.000Z",
+    "expiry": "2024-04-11T08:04:00.000Z",
     "enemy": "Infested",
-    "type": "Survival",
+    "type": "Interception",
     "archwing": false,
     "sharkwing": false,
-    "node": "Apollodorus (Mercury)",
-    "nodeKey": "Apollodorus (Mercury)",
-    "typeKey": "Survival",
-    "id": "5e3da1e4fede6a1b065f81a2ce47abb4225823775eecde10deeed34f8cfe07e8",
+    "node": "Xini (Eris)",
+    "nodeKey": "Xini (Eris)",
+    "typeKey": "Interception",
+    "id": "7be213055412c9071bcb791238f022a1102ba6b4dab7a954f17f0368a79884a7",
     "expired": true
   },
   "sentientOutposts": {
@@ -3662,7 +3665,7 @@
     },
     "activation": "2024-04-08T00:00:00.000Z",
     "expiry": "2024-04-14T23:59:59.000Z",
-    "remaining": "3d 17h 15m 58s",
+    "remaining": "3d 16h 23m 48s",
     "rotation": [
       {
         "name": "Umbra Forma Blueprint",
@@ -3784,7 +3787,7 @@
   "vaultTrader": {
     "id": "631f8c4ac36af423770eaa97",
     "activation": "2024-03-14T18:00:00.000Z",
-    "startString": "-27d 12h 44m 0s",
+    "startString": "-27d 13h 36m 10s",
     "expiry": "2024-04-11T18:00:00.000Z",
     "active": true,
     "character": "",
@@ -3924,7 +3927,7 @@
       }
     ],
     "psId": "631f8c4ac36af423770eaa9722",
-    "endString": "11h 15m 59s",
+    "endString": "10h 23m 49s",
     "initialStart": "2022-09-09T15:42:24.266Z",
     "schedule": [
       {
@@ -4019,16 +4022,16 @@
   "archonHunt": {
     "id": "66132ffdffefe34e8819cd21",
     "activation": "2024-04-08T00:00:00.000Z",
-    "startString": "-3d 6h 44m 0s",
+    "startString": "-3d 7h 36m 10s",
     "expiry": "2024-04-15T00:00:00.000Z",
     "active": true,
     "rewardPool": "Archon Sortie Rewards",
     "variants": [],
     "missions": [
       {
-        "node": "Ares (Mars)",
+        "node": "Ares (Marte)",
         "nodeKey": "Ares (Mars)",
-        "type": "Extermination",
+        "type": "Exterminio",
         "typeKey": "Extermination",
         "nightmare": false,
         "archwingRequired": false,
@@ -4038,9 +4041,9 @@
         "levelAuras": []
       },
       {
-        "node": "Arval (Mars)",
+        "node": "Arval (Marte)",
         "nodeKey": "Arval (Mars)",
-        "type": "Interception",
+        "type": "Interceptación",
         "typeKey": "Interception",
         "nightmare": false,
         "archwingRequired": false,
@@ -4050,9 +4053,9 @@
         "levelAuras": []
       },
       {
-        "node": "War (Mars)",
+        "node": "War (Marte)",
         "nodeKey": "War (Mars)",
-        "type": "Assassination",
+        "type": "Asesinato",
         "typeKey": "Assassination",
         "nightmare": false,
         "archwingRequired": false,
@@ -4066,7 +4069,7 @@
     "faction": "Narmer",
     "factionKey": "Narmer",
     "expired": false,
-    "eta": "3d 17h 15m 59s"
+    "eta": "3d 16h 23m 49s"
   },
   "duviriCycle": {
     "id": "duviriCyclefear1712822400000",

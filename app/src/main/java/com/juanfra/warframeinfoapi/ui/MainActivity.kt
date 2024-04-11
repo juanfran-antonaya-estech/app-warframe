@@ -1,8 +1,15 @@
 package com.juanfra.warframeinfoapi.ui
 
 import android.os.Bundle
+import android.util.Log
+import androidx.activity.enableEdgeToEdge
 import androidx.activity.OnBackPressedCallback
 import androidx.appcompat.app.AppCompatActivity
+import androidx.core.view.ViewCompat
+import androidx.core.view.WindowInsetsCompat
+import androidx.lifecycle.Lifecycle
+import androidx.lifecycle.LifecycleOwner
+import androidx.lifecycle.lifecycleScope
 import androidx.core.view.GravityCompat
 import androidx.navigation.NavController
 import androidx.navigation.NavHost
@@ -11,12 +18,15 @@ import androidx.navigation.ui.navigateUp
 import androidx.navigation.ui.setupActionBarWithNavController
 import androidx.navigation.ui.setupWithNavController
 import com.juanfra.warframeinfoapi.R
+import com.juanfra.warframeinfoapi.model.WarfraModel
 import com.juanfra.warframeinfoapi.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
     private lateinit var navController: NavController
     private lateinit var appBarConfiguration: AppBarConfiguration
+    var viewModel: WarfraModel = WarfraModel(this)
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         binding = ActivityMainBinding.inflate(layoutInflater)
@@ -62,6 +72,11 @@ class MainActivity : AppCompatActivity() {
                 }
             }
         })
+
+        viewModel.firstTime()
+        viewModel.getDefaultEndpoint().observe(this){
+            Log.d("el yeison", it.toString())
+        }
     }
 
     override fun onSupportNavigateUp(): Boolean {
