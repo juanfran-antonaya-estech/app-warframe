@@ -1,4 +1,4 @@
-package com.juanfra.warframeinfoapi
+package com.juanfra.warframeinfoapi.ui
 
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
