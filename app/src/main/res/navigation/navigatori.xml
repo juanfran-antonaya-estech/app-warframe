@@ -1,6 +1,113 @@
 <?xml version="1.0" encoding="utf-8"?>
 <navigation xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    android:id="@+id/navigatori">
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigatori"
+    app:startDestination="@id/nav_inicio">
 
+    <fragment
+        android:id="@+id/nav_news"
+        android:name="com.juanfra.warframeinfoapi.ui.fragments.FragmentNoticias"
+        android:label="Noticias"
+        tools:layout="@layout/fragment_noticias" />
+    <fragment
+        android:id="@+id/nav_inicio"
+        android:name="com.juanfra.warframeinfoapi.ui.fragments.FragmentInicio"
+        android:label="Inicio"
+        tools:layout="@layout/fragment_inicio" />
+    <fragment
+        android:id="@+id/nav_events"
+        android:name="com.juanfra.warframeinfoapi.ui.fragments.FragmentEventos"
+        android:label="Eventos"
+        tools:layout="@layout/fragment_eventos" />
+    <fragment
+        android:id="@+id/nav_alerts"
+        android:name="com.juanfra.warframeinfoapi.ui.fragments.FragmentAlertas"
+        android:label="Alertas"
+        tools:layout="@layout/fragment_alertas" />
+    <fragment
+        android:id="@+id/nav_syndicateMissions"
+        android:name="com.juanfra.warframeinfoapi.ui.fragments.FragmentMisionesSindicato"
+        android:label="Misiones Sindicato"
+        tools:layout="@layout/fragment_misiones_sindicato" />
+    <fragment
+        android:id="@+id/nav_fissures"
+        android:name="com.juanfra.warframeinfoapi.ui.fragments.FragmentFisuras"
+        android:label="Fisuras"
+        tools:layout="@layout/fragment_fisuras" />
+    <fragment
+        android:id="@+id/nav_flashSales"
+        android:name="com.juanfra.warframeinfoapi.ui.fragments.FragmentVentasFlash"
+        android:label="Ventas flash"
+        tools:layout="@layout/fragment_ventas_flash" />
+    <fragment
+        android:id="@+id/nav_invasions"
+        android:name="com.juanfra.warframeinfoapi.ui.fragments.FragmentInvasiones"
+        android:label="Invasiones"
+        tools:layout="@layout/fragment_invasiones" />
+    <fragment
+        android:id="@+id/nav_darkSectors"
+        android:name="com.juanfra.warframeinfoapi.ui.fragments.FragmentSectoresOscuros"
+        android:label="Sectores Oscuros"
+        tools:layout="@layout/fragment_sectores_oscuros" />
+    <fragment
+        android:id="@+id/nav_voidTraders"
+        android:name="com.juanfra.warframeinfoapi.ui.fragments.FragmentVoidTraders"
+        android:label="Baro Ki' Teer"
+        tools:layout="@layout/fragment_void_traders" />
+    <fragment
+        android:id="@+id/nav_dailyDeals"
+        android:name="com.juanfra.warframeinfoapi.ui.fragments.FragmentOfertasDiarias"
+        android:label="Ofertas Diarias"
+        tools:layout="@layout/fragment_ofertas_diarias" />
+    <fragment
+        android:id="@+id/nav_conclaveChallenges"
+        android:name="com.juanfra.warframeinfoapi.ui.fragments.FragmentDesafiosConclave"
+        android:label="El Cónclave"
+        tools:layout="@layout/fragment_desafios_conclave" />
+    <fragment
+        android:id="@+id/nav_cycle"
+        android:name="com.juanfra.warframeinfoapi.ui.fragments.FragmentCiclos"
+        android:label="Cliclos"
+        tools:layout="@layout/fragment_ciclos" />
+    <fragment
+        android:id="@+id/nav_weeklyChallenges"
+        android:name="com.juanfra.warframeinfoapi.ui.fragments.FragmentDesafiosSemanales"
+        android:label="Desafíos Semanales"
+        tools:layout="@layout/fragment_desafios_semanales" />
+    <fragment
+        android:id="@+id/nav_nightwave"
+        android:name="com.juanfra.warframeinfoapi.ui.fragments.FragmentOndaNocturna"
+        android:label="Onda Norcturna"
+        tools:layout="@layout/fragment_onda_nocturna" />
+    <fragment
+        android:id="@+id/nav_kuva"
+        android:name="com.juanfra.warframeinfoapi.ui.fragments.FragmentKuva"
+        android:label="Fortaleza Kuva"
+        tools:layout="@layout/fragment_kuva" />
+    <fragment
+        android:id="@+id/nav_arbitration"
+        android:name="com.juanfra.warframeinfoapi.ui.fragments.FragmentArbitramientos"
+        android:label="Arbitramientos"
+        tools:layout="@layout/fragment_arbitramientos" />
+    <fragment
+        android:id="@+id/nav_steelPath"
+        android:name="com.juanfra.warframeinfoapi.ui.fragments.FragmentCaminoAcero"
+        android:label="Camino de Acero"
+        tools:layout="@layout/fragment_camino_acero" />
+    <fragment
+        android:id="@+id/nav_vaultTrader"
+        android:name="com.juanfra.warframeinfoapi.ui.fragments.FragmentVaultTrader"
+        android:label="El bazar de Maroo"
+        tools:layout="@layout/fragment_vault_trader" />
+    <fragment
+        android:id="@+id/nav_archonHunt"
+        android:name="com.juanfra.warframeinfoapi.ui.fragments.FragmentCazaArcontes"
+        android:label="Caza de Arcontes"
+        tools:layout="@layout/fragment_caza_arcontes" />
+    <fragment
+        android:id="@+id/nav_duviriCycle"
+        android:name="com.juanfra.warframeinfoapi.ui.fragments.FragmentInfoDuviri"
+        android:label="Ciclo de Duviri"
+        tools:layout="@layout/fragment_info_duviri" />
 </navigation>
