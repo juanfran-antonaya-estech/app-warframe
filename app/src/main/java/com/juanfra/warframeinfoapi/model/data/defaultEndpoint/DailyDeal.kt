@@ -4,26 +4,15 @@ package com.juanfra.warframeinfoapi.model.data.defaultEndpoint
 import com.google.gson.annotations.SerializedName
 
 data class DailyDeal(
-    @SerializedName("item")
-    val item: String, // Heat Dagger
-    @SerializedName("uniqueName")
-    val uniqueName: String, // /Lotus/StoreItems/Weapons/Tenno/Melee/Dagger/Dagger
-    @SerializedName("expiry")
-    val expiry: String, // 2024-04-12T07:00:00.000Z
-    @SerializedName("activation")
-    val activation: String, // 2024-04-11T05:00:00.000Z
-    @SerializedName("originalPrice")
-    val originalPrice: Int, // 75
-    @SerializedName("salePrice")
-    val salePrice: Int, // 52
-    @SerializedName("total")
-    val total: Int, // 350
-    @SerializedName("sold")
-    val sold: Int, // 3
-    @SerializedName("id")
-    val id: String, // Dagger1712905200000
-    @SerializedName("eta")
-    val eta: String, // 1d 15m 59s
-    @SerializedName("discount")
-    val discount: Int // 30
+    @SerializedName("item") var item: String, // Heat Dagger
+    @SerializedName("uniqueName") var uniqueName: String, // /Lotus/StoreItems/Weapons/Tenno/Melee/Dagger/Dagger
+    @SerializedName("expiry") var expiry: String, // 2024-04-12T07:00:00.000Z
+    @SerializedName("activation") var activation: String, // 2024-04-11T05:00:00.000Z
+    @SerializedName("originalPrice") var originalPrice: Int, // 75
+    @SerializedName("salePrice") var salePrice: Int, // 52
+    @SerializedName("total") var total: Int, // 350
+    @SerializedName("sold") var sold: Int, // 5
+    @SerializedName("id") var id: String, // Dagger1712905200000
+    @SerializedName("eta") var eta: String, // 23h 23m 49s
+    @SerializedName("discount") var discount: Int // 30
 )

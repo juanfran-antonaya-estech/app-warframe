@@ -4,38 +4,21 @@ package com.juanfra.warframeinfoapi.model.data.defaultEndpoint
 import com.google.gson.annotations.SerializedName
 
 data class Fissure(
-    @SerializedName("id")
-    val id: String, // 661772c5765ef362159dcb70
-    @SerializedName("activation")
-    val activation: String, // 2024-04-11T05:19:01.687Z
-    @SerializedName("startString")
-    val startString: String, // -1h 24m 59s
-    @SerializedName("expiry")
-    val expiry: String, // 2024-04-11T07:18:35.412Z
-    @SerializedName("active")
-    val active: Boolean, // true
-    @SerializedName("node")
-    val node: String, // Despina (Neptune)
-    @SerializedName("missionType")
-    val missionType: String, // Excavation
-    @SerializedName("missionKey")
-    val missionKey: String, // Excavation
-    @SerializedName("enemy")
-    val enemy: String, // Corpus
-    @SerializedName("enemyKey")
-    val enemyKey: String, // Corpus
-    @SerializedName("nodeKey")
-    val nodeKey: String, // Despina (Neptune)
-    @SerializedName("tier")
-    val tier: String, // Neo
-    @SerializedName("tierNum")
-    val tierNum: Int, // 3
-    @SerializedName("expired")
-    val expired: Boolean, // false
-    @SerializedName("eta")
-    val eta: String, // 34m 34s
-    @SerializedName("isStorm")
-    val isStorm: Boolean, // false
-    @SerializedName("isHard")
-    val isHard: Boolean // false
+    @SerializedName("id") var id: String, // 66177991f50c022f4f6a86ad
+    @SerializedName("activation") var activation: String, // 2024-04-11T05:48:01.435Z
+    @SerializedName("startString") var startString: String, // -1h 48m 8s
+    @SerializedName("expiry") var expiry: String, // 2024-04-11T07:35:06.653Z
+    @SerializedName("active") var active: Boolean, // false
+    @SerializedName("node") var node: String, // Nimus (Eris)
+    @SerializedName("missionType") var missionType: String, // Supervivencia
+    @SerializedName("missionKey") var missionKey: String, // Survival
+    @SerializedName("enemy") var enemy: String, // Infestados
+    @SerializedName("enemyKey") var enemyKey: String, // Infested
+    @SerializedName("nodeKey") var nodeKey: String, // Nimus (Eris)
+    @SerializedName("tier") var tier: String, // Axi
+    @SerializedName("tierNum") var tierNum: Int, // 4
+    @SerializedName("expired") var expired: Boolean, // true
+    @SerializedName("eta") var eta: String, // -1m 3s
+    @SerializedName("isStorm") var isStorm: Boolean, // false
+    @SerializedName("isHard") var isHard: Boolean // true
 )

@@ -4,26 +4,15 @@ package com.juanfra.warframeinfoapi.model.data.defaultEndpoint
 import com.google.gson.annotations.SerializedName
 
 data class Arbitration(
-    @SerializedName("activation")
-    val activation: String, // 2024-04-11T06:05:00.000Z
-    @SerializedName("expiry")
-    val expiry: String, // 2024-04-11T07:04:00.000Z
-    @SerializedName("enemy")
-    val enemy: String, // Infested
-    @SerializedName("type")
-    val type: String, // Survival
-    @SerializedName("archwing")
-    val archwing: Boolean, // false
-    @SerializedName("sharkwing")
-    val sharkwing: Boolean, // false
-    @SerializedName("node")
-    val node: String, // Apollodorus (Mercury)
-    @SerializedName("nodeKey")
-    val nodeKey: String, // Apollodorus (Mercury)
-    @SerializedName("typeKey")
-    val typeKey: String, // Survival
-    @SerializedName("id")
-    val id: String, // 5e3da1e4fede6a1b065f81a2ce47abb4225823775eecde10deeed34f8cfe07e8
-    @SerializedName("expired")
-    val expired: Boolean // true
+    @SerializedName("activation") var activation: String, // 2024-04-11T07:05:00.000Z
+    @SerializedName("expiry") var expiry: String, // 2024-04-11T08:04:00.000Z
+    @SerializedName("enemy") var enemy: String, // Infested
+    @SerializedName("type") var type: String, // Interception
+    @SerializedName("archwing") var archwing: Boolean, // false
+    @SerializedName("sharkwing") var sharkwing: Boolean, // false
+    @SerializedName("node") var node: String, // Xini (Eris)
+    @SerializedName("nodeKey") var nodeKey: String, // Xini (Eris)
+    @SerializedName("typeKey") var typeKey: String, // Interception
+    @SerializedName("id") var id: String, // 7be213055412c9071bcb791238f022a1102ba6b4dab7a954f17f0368a79884a7
+    @SerializedName("expired") var expired: Boolean // true
 )

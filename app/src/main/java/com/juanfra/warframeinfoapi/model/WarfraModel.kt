@@ -9,7 +9,7 @@ class WarfraModel(val context: Context) : ViewModel() {
 
     val repo = WarfRepositorio(context)
 
-    val defaultEndpointLiveData: MutableLiveData<DefaultEndpoint> = MutableLiveData()
+    private val defaultEndpointLiveData: MutableLiveData<DefaultEndpoint> = MutableLiveData()
 
     fun firstTime(){
         setDefaultEndpoint(repo.getDefaultEndpoint())

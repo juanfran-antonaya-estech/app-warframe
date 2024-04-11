@@ -2,7 +2,6 @@ package com.juanfra.warframeinfoapi.model
 
 import android.content.Context
 import com.google.gson.Gson
-import com.google.gson.GsonBuilder
 import com.google.gson.reflect.TypeToken
 import com.juanfra.warframeinfoapi.model.data.defaultEndpoint.DefaultEndpoint
 

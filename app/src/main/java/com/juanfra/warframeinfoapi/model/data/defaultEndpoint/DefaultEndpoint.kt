@@ -4,68 +4,36 @@ package com.juanfra.warframeinfoapi.model.data.defaultEndpoint
 import com.google.gson.annotations.SerializedName
 
 data class DefaultEndpoint(
-    @SerializedName("timestamp")
-    val timestamp: String, // 2024-04-11T06:42:20.000Z
-    @SerializedName("news")
-    val news: List<New>,
-    @SerializedName("events")
-    val events: List<Event>,
-    @SerializedName("alerts")
-    val alerts: List<Alert>,
-    @SerializedName("sortie")
-    val sortie: Sortie,
-    @SerializedName("syndicateMissions")
-    val syndicateMissions: List<SyndicateMission>,
-    @SerializedName("fissures")
-    val fissures: List<Fissure>,
-    @SerializedName("globalUpgrades")
-    val globalUpgrades: List<Any>,
-    @SerializedName("flashSales")
-    val flashSales: List<FlashSale>,
-    @SerializedName("invasions")
-    val invasions: List<Invasion>,
-    @SerializedName("darkSectors")
-    val darkSectors: List<Any>,
-    @SerializedName("voidTraders")
-    val voidTraders: List<VoidTrader>,
-    @SerializedName("voidTrader")
-    val voidTrader: VoidTrader,
-    @SerializedName("dailyDeals")
-    val dailyDeals: List<DailyDeal>,
-    @SerializedName("simaris")
-    val simaris: Simaris,
-    @SerializedName("conclaveChallenges")
-    val conclaveChallenges: List<ConclaveChallenge>,
-    @SerializedName("persistentEnemies")
-    val persistentEnemies: List<Any>,
-    @SerializedName("earthCycle")
-    val earthCycle: EarthCycle,
-    @SerializedName("cetusCycle")
-    val cetusCycle: CetusCycle,
-    @SerializedName("cambionCycle")
-    val cambionCycle: CambionCycle,
-    @SerializedName("zarimanCycle")
-    val zarimanCycle: ZarimanCycle,
-    @SerializedName("weeklyChallenges")
-    val weeklyChallenges: List<Any>,
-    @SerializedName("constructionProgress")
-    val constructionProgress: ConstructionProgress,
-    @SerializedName("vallisCycle")
-    val vallisCycle: VallisCycle,
-    @SerializedName("nightwave")
-    val nightwave: Nightwave,
-    @SerializedName("kuva")
-    val kuva: List<Any>,
-    @SerializedName("arbitration")
-    val arbitration: Arbitration,
-    @SerializedName("sentientOutposts")
-    val sentientOutposts: SentientOutposts,
-    @SerializedName("steelPath")
-    val steelPath: SteelPath,
-    @SerializedName("vaultTrader")
-    val vaultTrader: VaultTrader,
-    @SerializedName("archonHunt")
-    val archonHunt: ArchonHunt,
-    @SerializedName("duviriCycle")
-    val duviriCycle: DuviriCycle
+    @SerializedName("timestamp") var timestamp: String, // 2024-04-11T07:34:23.000Z
+    @SerializedName("news") var news: List<New>,
+    @SerializedName("events") var events: List<Event>,
+    @SerializedName("alerts") var alerts: List<Alert>,
+    @SerializedName("sortie") var sortie: Sortie,
+    @SerializedName("syndicateMissions") var syndicateMissions: List<SyndicateMission>,
+    @SerializedName("fissures") var fissures: List<Fissure>,
+    @SerializedName("globalUpgrades") var globalUpgrades: List<Any>,
+    @SerializedName("flashSales") var flashSales: List<FlashSale>,
+    @SerializedName("invasions") var invasions: List<Invasion>,
+    @SerializedName("darkSectors") var darkSectors: List<Any>,
+    @SerializedName("voidTraders") var voidTraders: List<VoidTrader>,
+    @SerializedName("voidTrader") var voidTrader: VoidTrader,
+    @SerializedName("dailyDeals") var dailyDeals: List<DailyDeal>,
+    @SerializedName("simaris") var simaris: Simaris,
+    @SerializedName("conclaveChallenges") var conclaveChallenges: List<ConclaveChallenge>,
+    @SerializedName("persistentEnemies") var persistentEnemies: List<Any>,
+    @SerializedName("earthCycle") var earthCycle: EarthCycle,
+    @SerializedName("cetusCycle") var cetusCycle: CetusCycle,
+    @SerializedName("cambionCycle") var cambionCycle: CambionCycle,
+    @SerializedName("zarimanCycle") var zarimanCycle: ZarimanCycle,
+    @SerializedName("weeklyChallenges") var weeklyChallenges: List<Any>,
+    @SerializedName("constructionProgress") var constructionProgress: ConstructionProgress,
+    @SerializedName("vallisCycle") var vallisCycle: VallisCycle,
+    @SerializedName("nightwave") var nightwave: Nightwave,
+    @SerializedName("kuva") var kuva: List<Any>,
+    @SerializedName("arbitration") var arbitration: Arbitration,
+    @SerializedName("sentientOutposts") var sentientOutposts: SentientOutposts,
+    @SerializedName("steelPath") var steelPath: SteelPath,
+    @SerializedName("vaultTrader") var vaultTrader: VaultTrader,
+    @SerializedName("archonHunt") var archonHunt: ArchonHunt,
+    @SerializedName("duviriCycle") var duviriCycle: DuviriCycle
 )
