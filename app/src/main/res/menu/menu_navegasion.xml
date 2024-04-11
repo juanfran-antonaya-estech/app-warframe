@@ -3,27 +3,69 @@
     xmlns:android="http://schemas.android.com/apk/res/android">
 
     <group>
-        <item android:title="Inicio" />
-        <item android:title="Alertas" />
-        <item android:title="Noticias" />
-        <item android:title="Eventos" />
-        <item android:title="Misiones del sindicato" />
-        <item android:title="Fisuras" />
-        <item android:title="Mejoras Globales" />
-        <item android:title="Ventas Flash" />
-        <item android:title="Invasiones" />
-        <item android:title="Sectores Oscuros" />
-        <item android:title="Baro Ki'Teer" />
-        <item android:title="Ofertas Diarias" />
-        <item android:title="Simaris" />
-        <item android:title="Retos del conclave" />
-        <item android:title="Ciclos" />
-        <item android:title="Arbitraciones" />
-        <item android:title="Outposts" />
-        <item android:title="Camino de acero" />
-        <item android:title="Evergreens" />
-        <item android:title="Incursiones" />
-        <item android:title="Bazar de Maroo" />
-        <item android:title="Arcontes" />
+        <item
+            android:id="@+id/nav_inicio"
+            android:title="Inicio" />
+        <item android:title="Información actual" >
+            <menu >
+                <item
+                    android:id="@+id/nav_alerts"
+                    android:title="Alertas" />
+                <item
+                    android:id="@+id/nav_news"
+                    android:title="Noticias" />
+                <item
+                    android:id="@+id/nav_events"
+                    android:title="Eventos" />
+                <item
+                    android:id="@+id/nav_syndicateMissions"
+                    android:title="Misiones del sindicato" />
+                <item
+                    android:id="@+id/nav_fissures"
+                    android:title="Fisuras" />
+                <item
+                    android:id="@+id/nav_flashSales"
+                    android:title="Ventas Flash" />
+                <item
+                    android:id="@+id/nav_invasions"
+                    android:title="Invasiones" />
+                <item
+                    android:id="@+id/nav_darkSectors"
+                    android:title="Sectores Oscuros" />
+                <item
+                    android:id="@+id/nav_voidTraders"
+                    android:title="Baro Ki'Teer" />
+                <item
+                    android:id="@+id/nav_dailyDeals"
+                    android:title="Ofertas Diarias" />
+                <item
+                    android:id="@+id/nav_simaris"
+                    android:title="Simaris" />
+                <item
+                    android:id="@+id/nav_conclaveChallenges"
+                    android:title="Retos del conclave" />
+                <item
+                    android:id="@+id/nav_cycle"
+                    android:title="Ciclos" />
+                <item
+                    android:id="@+id/nav_arbitration"
+                    android:title="Arbitraciones" />
+                <item
+                    android:id="@+id/nav_kuva"
+                    android:title="Kuva" />
+                <item
+                    android:id="@+id/nav_steelPath"
+                    android:title="Camino de acero" />
+                <item
+                    android:id="@+id/nav_vaultTrader"
+                    android:title="Bazar de Maroo" />
+                <item
+                    android:id="@+id/nav_archonHunt"
+                    android:title="Arcontes"/>
+                <item
+                    android:id="@+id/nav_duviriCycle"
+                    android:title="Duviri" />
+            </menu>
+        </item>
     </group>
 </menu>
