@@ -28,24 +28,29 @@ class MainActivity : AppCompatActivity() {
         navController = navHost.navController
         appBarConfiguration = AppBarConfiguration(setOf(
             R.id.nav_inicio,
+            R.id.nav_events,
             R.id.nav_alerts,
-            R.id.nav_inicio,
-            R.id.nav_inicio,
-            R.id.nav_inicio,
-            R.id.nav_inicio,
-            R.id.nav_inicio,
-            R.id.nav_inicio,
-            R.id.nav_inicio,
-            R.id.nav_inicio,
-            R.id.nav_inicio,
-            R.id.nav_inicio,
-            R.id.nav_inicio,
-            R.id.nav_inicio,
-            R.id.nav_inicio,
-            R.id.nav_inicio
+            R.id.nav_syndicateMissions,
+            R.id.nav_fissures,
+            R.id.nav_flashSales,
+            R.id.nav_invasions,
+            R.id.nav_darkSectors,
+            R.id.nav_voidTraders,
+            R.id.nav_dailyDeals,
+            R.id.nav_conclaveChallenges,
+            R.id.nav_cycle,
+            R.id.nav_weeklyChallenges,
+            R.id.nav_nightwave,
+            R.id.nav_kuva,
+            R.id.nav_arbitration,
+            R.id.nav_steelPath,
+            R.id.nav_vaultTrader,
+            R.id.nav_archonHunt,
+            R.id.nav_duviriCycle
         ))
         setupActionBarWithNavController(navController, appBarConfiguration)
         binding.navigationView.setupWithNavController(navController)
+
 
         onBackPressedDispatcher.addCallback(this, object : OnBackPressedCallback(true) {
             override fun handleOnBackPressed() {

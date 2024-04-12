@@ -15,9 +15,11 @@
         <item android:title="Sectores Oscuros" />
         <item android:title="Baro Ki'Teer" />
         <item android:title="Ofertas Diarias" />
-        <item android:title="Simaris" />
         <item android:title="Retos del conclave" />
         <item android:title="Ciclos" />
+        <item
+            android:id="@+id/nav_weeklyChallenges"
+            android:title="Item" />
         <item android:title="Arbitraciones" />
         <item android:title="Outposts" />
         <item android:title="Camino de acero" />
