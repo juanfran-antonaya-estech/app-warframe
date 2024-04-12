@@ -32,6 +32,7 @@
                 <item
                     android:id="@+id/nav_darkSectors"
                     android:title="Sectores Oscuros" />
+                <item android:title="nav_weeklyChallenges" />
                 <item
                     android:id="@+id/nav_voidTraders"
                     android:title="Baro Ki'Teer" />
