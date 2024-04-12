@@ -6,8 +6,8 @@
         <item
             android:id="@+id/nav_inicio"
             android:title="Inicio" />
-        <item android:title="Información actual" >
-            <menu >
+        <item android:title="Información actual">
+            <menu>
                 <item
                     android:id="@+id/nav_alerts"
                     android:title="Alertas" />
@@ -32,7 +32,9 @@
                 <item
                     android:id="@+id/nav_darkSectors"
                     android:title="Sectores Oscuros" />
-                <item android:title="nav_weeklyChallenges" />
+                <item
+                    android:id="@+id/nav_weeklyChallenges"
+                    android:title="Retos Semanales" />
                 <item
                     android:id="@+id/nav_voidTraders"
                     android:title="Baro Ki'Teer" />
@@ -62,7 +64,7 @@
                     android:title="Bazar de Maroo" />
                 <item
                     android:id="@+id/nav_archonHunt"
-                    android:title="Arcontes"/>
+                    android:title="Arcontes" />
                 <item
                     android:id="@+id/nav_duviriCycle"
                     android:title="Duviri" />
