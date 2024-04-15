@@ -77,6 +77,12 @@ class MainActivity : AppCompatActivity() {
         viewModel.getDefaultEndpoint().observe(this){
             Log.d("el yeison", it.toString())
         }
+
+        giveViewModel(viewModel)
+    }
+
+    private fun giveViewModel(viewModel: WarfraModel) {
+
     }
 
     override fun onSupportNavigateUp(): Boolean {
