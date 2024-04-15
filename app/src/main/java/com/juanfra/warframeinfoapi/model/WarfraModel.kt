@@ -3,7 +3,6 @@ package com.juanfra.warframeinfoapi.model
 import android.content.Context
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
-import com.juanfra.warframeinfoapi.model.data.defaultEndpoint.DefaultEndpoint
 
 class WarfraModel(val context: Context) : ViewModel() {
 
