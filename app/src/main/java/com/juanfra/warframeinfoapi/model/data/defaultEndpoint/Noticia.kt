@@ -3,7 +3,7 @@ package com.juanfra.warframeinfoapi.model.data.defaultEndpoint
 
 import com.google.gson.annotations.SerializedName
 
-data class New(
+data class Noticia(
     @SerializedName("id") var id: String, // 62d31b87106360aa5703954d
     @SerializedName("message") var message: String, // Join the official Warframe Discord server
     @SerializedName("link") var link: String, // https://discord.com/invite/playwarframe

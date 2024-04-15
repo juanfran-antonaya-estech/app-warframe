@@ -11,6 +11,7 @@ import androidx.lifecycle.Lifecycle
 import androidx.lifecycle.LifecycleOwner
 import androidx.lifecycle.lifecycleScope
 import androidx.core.view.GravityCompat
+import androidx.lifecycle.viewmodel.compose.viewModel
 import androidx.navigation.NavController
 import androidx.navigation.NavHost
 import androidx.navigation.ui.AppBarConfiguration
@@ -20,6 +21,7 @@ import androidx.navigation.ui.setupWithNavController
 import com.juanfra.warframeinfoapi.R
 import com.juanfra.warframeinfoapi.model.WarfraModel
 import com.juanfra.warframeinfoapi.databinding.ActivityMainBinding
+import com.juanfra.warframeinfoapi.ui.fragments.FragmentNoticias
 
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
@@ -82,7 +84,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun giveViewModel(viewModel: WarfraModel) {
-
+        FragmentNoticias.viewModel = viewModel
     }
 
     override fun onSupportNavigateUp(): Boolean {

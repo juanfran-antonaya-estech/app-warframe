@@ -4,12 +4,16 @@ import android.content.Context
 import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
 import com.juanfra.warframeinfoapi.model.data.defaultEndpoint.DefaultEndpoint
+import com.juanfra.warframeinfoapi.model.data.defaultEndpoint.Noticia
 
 
 class WarfRepositorio(val context: Context) {
+
+    private lateinit var defaultEndpoint: DefaultEndpoint
     fun getDefaultEndpoint(): DefaultEndpoint {
         var jsonString = getJsonFromAsset("defaultendpoint.json")
         var lista = Gson().fromJson(jsonString, TypeToken.get(DefaultEndpoint::class.java))
+        defaultEndpoint = lista
         return lista
     }
 
@@ -26,5 +30,9 @@ class WarfRepositorio(val context: Context) {
             e.printStackTrace()
         }
         return json
+    }
+
+    fun getNews(page: Int): ArrayList<Noticia> {
+        return ArrayList(defaultEndpoint.news)
     }
 }
