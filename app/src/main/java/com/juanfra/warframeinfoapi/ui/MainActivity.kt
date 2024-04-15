@@ -21,6 +21,7 @@ import androidx.navigation.ui.setupWithNavController
 import com.juanfra.warframeinfoapi.R
 import com.juanfra.warframeinfoapi.model.WarfraModel
 import com.juanfra.warframeinfoapi.databinding.ActivityMainBinding
+import com.juanfra.warframeinfoapi.ui.fragments.FragmentAlertas
 import com.juanfra.warframeinfoapi.ui.fragments.FragmentNoticias
 
 class MainActivity : AppCompatActivity() {
@@ -86,6 +87,7 @@ class MainActivity : AppCompatActivity() {
 
     private fun giveViewModel(viewModel: WarfraModel) {
         FragmentNoticias.viewModel = viewModel
+        FragmentAlertas.viewModel = viewModel
     }
 
     override fun onSupportNavigateUp(): Boolean {

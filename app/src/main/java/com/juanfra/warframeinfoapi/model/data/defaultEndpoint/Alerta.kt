@@ -3,7 +3,7 @@ package com.juanfra.warframeinfoapi.model.data.defaultEndpoint
 
 import com.google.gson.annotations.SerializedName
 
-data class Alert(
+data class Alerta(
     @SerializedName("id") var id: String, // 660dbfcfd33f1ab8230df48c
     @SerializedName("activation") var activation: String, // 2024-04-08T15:00:00.000Z
     @SerializedName("startString") var startString: String, // -2d 16h 36m 10s

@@ -7,7 +7,7 @@ data class DefaultEndpoint(
     @SerializedName("timestamp") var timestamp: String, // 2024-04-11T07:34:23.000Z
     @SerializedName("news") var news: List<Noticia>,
     @SerializedName("events") var events: List<Event>,
-    @SerializedName("alerts") var alerts: List<Alert>,
+    @SerializedName("alerts") var alerts: List<Alerta>,
     @SerializedName("sortie") var sortie: Sortie,
     @SerializedName("syndicateMissions") var syndicateMissions: List<SyndicateMission>,
     @SerializedName("fissures") var fissures: List<Fissure>,
