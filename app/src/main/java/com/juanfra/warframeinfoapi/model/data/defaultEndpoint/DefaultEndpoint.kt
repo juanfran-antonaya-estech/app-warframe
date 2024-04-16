@@ -6,7 +6,7 @@ import com.google.gson.annotations.SerializedName
 data class DefaultEndpoint(
     @SerializedName("timestamp") var timestamp: String, // 2024-04-11T07:34:23.000Z
     @SerializedName("news") var news: List<Noticia>,
-    @SerializedName("events") var events: List<Event>,
+    @SerializedName("events") var events: List<Evento>,
     @SerializedName("alerts") var alerts: List<Alerta>,
     @SerializedName("sortie") var sortie: Sortie,
     @SerializedName("syndicateMissions") var syndicateMissions: List<SyndicateMission>,

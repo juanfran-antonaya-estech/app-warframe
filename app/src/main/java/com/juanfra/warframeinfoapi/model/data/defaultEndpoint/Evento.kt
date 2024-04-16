@@ -3,7 +3,7 @@ package com.juanfra.warframeinfoapi.model.data.defaultEndpoint
 
 import com.google.gson.annotations.SerializedName
 
-data class Event(
+data class Evento(
     @SerializedName("id") var id: String, // 5c7cb0d00000000000000000
     @SerializedName("activation") var activation: String, // 2024-04-08T16:00:00.000Z
     @SerializedName("startString") var startString: String, // -2d 15h 36m 10s
@@ -20,7 +20,7 @@ data class Event(
     @SerializedName("scoreLocTag") var scoreLocTag: String?, // Heat Fissures Event Score
     @SerializedName("rewards") var rewards: List<Reward>,
     @SerializedName("expired") var expired: Boolean, // false
-    @SerializedName("health") var health: Int?, // 12
+    @SerializedName("health") var health: Double?, // 12
     @SerializedName("interimSteps") var interimSteps: List<InterimStep>,
     @SerializedName("progressSteps") var progressSteps: List<Any>,
     @SerializedName("isPersonal") var isPersonal: Boolean, // true
