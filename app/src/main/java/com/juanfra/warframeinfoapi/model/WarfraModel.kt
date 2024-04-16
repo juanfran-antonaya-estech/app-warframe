@@ -20,7 +20,10 @@ class WarfraModel(val context: Context) : ViewModel() {
     private val eventsLiveData : MutableLiveData<ArrayList<Evento>> = MutableLiveData()
 
     fun firstTime(){
-        setDefaultEndpoint(repo.getDefaultEndpoint())
+        viewModelScope.launch {
+            setDefaultEndpoint(repo.getDefaultEndpoint())
+        }
+
     }
     private fun setDefaultEndpoint(defEP: DefaultEndpoint) {
         defaultEndpointLiveData.postValue(defEP)
@@ -30,7 +33,9 @@ class WarfraModel(val context: Context) : ViewModel() {
     }
 
     fun setNews(page: Int){
-        newsLiveData.postValue(repo.getNews(page))
+        viewModelScope.launch {
+            newsLiveData.postValue(repo.getNews(page))
+        }
     }
 
     fun getNews(): MutableLiveData<ArrayList<Noticia>> {
@@ -38,7 +43,9 @@ class WarfraModel(val context: Context) : ViewModel() {
     }
 
     fun setDefaultAlerts() {
+        viewModelScope.launch {
         alertsLiveData.postValue(repo.getAlerts())
+        }
     }
 
     fun getAlerts() : MutableLiveData<ArrayList<Alerta>>{
