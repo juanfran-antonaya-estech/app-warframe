@@ -4,6 +4,9 @@ import androidx.recyclerview.widget.RecyclerView
 import com.juanfra.warframeinfoapi.databinding.AlertsHolderBinding
 import com.juanfra.warframeinfoapi.databinding.HolderEventosBinding
 import com.juanfra.warframeinfoapi.model.data.defaultEndpoint.Evento
+import java.time.Instant
+import java.time.format.DateTimeFormatter
+import java.util.Date
 
 class AdaptadorEventos(var listado: ArrayList<Evento>) :
     RecyclerView.Adapter<AdaptadorEventos.MiCelda>() {
@@ -26,6 +29,19 @@ class AdaptadorEventos(var listado: ArrayList<Evento>) :
 
         with(holder.binding){
             tvTextillo.text = evento.description
+            tvEventTooltip.text = evento.tooltip
+            val expiradoEn = Date.from(Instant.parse(evento.expiry))
+            val ahora = Date.from(Instant.now())
+            val diferencia = expiradoEn.time - ahora.time
+
+            var segundos = diferencia / 1000
+            var minutos = segundos / 60
+            segundos %= 60
+            var horas = minutos / 60
+            minutos %= 60
+            var dias = horas / 24
+            horas %= 24
+            tvEventExpiry.text = "Expira en: ${dias}d ${horas}h ${minutos}m ${segundos}s"
         }
     }
 

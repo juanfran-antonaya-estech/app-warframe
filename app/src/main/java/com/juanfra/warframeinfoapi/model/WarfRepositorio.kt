@@ -1,6 +1,7 @@
 package com.juanfra.warframeinfoapi.model
 
 import android.content.Context
+import android.util.Log
 import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
 import com.juanfra.warframeinfoapi.model.data.defaultEndpoint.Alerta
@@ -66,6 +67,13 @@ class WarfRepositorio(val context: Context) {
     }
 
     suspend fun getEvents(): ArrayList<Evento>? {
-
+        val response = warfapi.getEvents(platform, lang)
+        Log.d("Llamada bien hecha", response.isSuccessful.toString())
+        Log.d("el objeto", response.body().toString())
+        if (response.isSuccessful) {
+            return response.body()
+        } else {
+            return null
+        }
     }
 }

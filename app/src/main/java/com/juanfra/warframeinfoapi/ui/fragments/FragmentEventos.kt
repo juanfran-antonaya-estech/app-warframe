@@ -29,8 +29,8 @@ class FragmentEventos : Fragment() {
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
-
-        viewModel.getEvents().observe(this){
+        viewModel.setDefaultEvents()
+        viewModel.getEvents().observe(viewLifecycleOwner){
             llenarAdapter(it)
         }
     }

@@ -2,6 +2,7 @@ package com.juanfra.warframeinfoapi.model.retrofit
 
 import com.juanfra.warframeinfoapi.model.data.defaultEndpoint.Alerta
 import com.juanfra.warframeinfoapi.model.data.defaultEndpoint.DefaultEndpoint
+import com.juanfra.warframeinfoapi.model.data.defaultEndpoint.Evento
 import com.juanfra.warframeinfoapi.model.data.defaultEndpoint.Noticia
 import retrofit2.Response
 import retrofit2.http.GET
@@ -27,4 +28,10 @@ interface RetroFitService {
         @Path("platform") platform: String,
         @Query("language") lang: String?
     ) : Response<ArrayList<Alerta>>
+
+    @GET("{platform}/events")
+    suspend fun getEvents(
+        @Path("platform") platform: String,
+        @Query("language") lang: String?
+    ) : Response<ArrayList<Evento>>
 }
