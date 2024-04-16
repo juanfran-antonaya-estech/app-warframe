@@ -20,7 +20,7 @@ data class Event(
     @SerializedName("scoreLocTag") var scoreLocTag: String?, // Heat Fissures Event Score
     @SerializedName("rewards") var rewards: List<Reward>,
     @SerializedName("expired") var expired: Boolean, // false
-    @SerializedName("health") var health: Int?, // 12
+    @SerializedName("health") var health: Double?, // 12
     @SerializedName("interimSteps") var interimSteps: List<InterimStep>,
     @SerializedName("progressSteps") var progressSteps: List<Any>,
     @SerializedName("isPersonal") var isPersonal: Boolean, // true
