@@ -3,6 +3,7 @@ package com.juanfra.warframeinfoapi.model
 import android.content.Context
 import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
+import com.juanfra.warframeinfoapi.model.data.defaultEndpoint.Alerta
 import com.juanfra.warframeinfoapi.model.data.defaultEndpoint.DefaultEndpoint
 import com.juanfra.warframeinfoapi.model.data.defaultEndpoint.Noticia
 
@@ -34,5 +35,9 @@ class WarfRepositorio(val context: Context) {
 
     fun getNews(page: Int): ArrayList<Noticia> {
         return ArrayList(defaultEndpoint.news)
+    }
+
+    fun getAlerts(): ArrayList<Alerta> {
+        return ArrayList(defaultEndpoint.alerts)
     }
 }
